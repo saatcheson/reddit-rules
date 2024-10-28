@@ -18,7 +18,7 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 try:
     with open('scrape.log', 'w') as f:
-        for i in range(370, 401): # 400 web pages, each page contains 250 subreddits
+        for i in range(1, 401): # 400 web top-subreddits, each page contains 250 subreddits
             data = {'subreddit': [], 'subscribers': [], 'topic': [], 'subreddit_id': [], 'time': []}
             try:
                 # Open the webpage
@@ -50,7 +50,7 @@ try:
                 f.flush()
 
                 df = pd.DataFrame(data)
-                df.to_csv(f'data/pages/{i}.csv')
+                df.to_csv(f'data/top-subreddits/{i}.csv')
 
             except Exception as e:
                 f.write(f'{i}, {str(e)}\n')

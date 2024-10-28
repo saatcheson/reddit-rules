@@ -13,20 +13,20 @@ from requests.auth import HTTPBasicAuth
 # )
 
 class RedditAPI:
-    def __init__(self, credentials):
-        self.client_id = credentials['client_id']
-        self.client_secret = credentials['client_secret']
-        self.username = credentials['username']
-        self.password = credentials['password']
+    def __init__(self, c):
+        self.client_id = c['client_id']
+        self.client_secret = c['client_secret']
+        self.username = c['username']
+        self.password = c['password']
         self.access_token = None
         self.expiration_time = 0
 
     def get_access_token(self):
         client_auth = HTTPBasicAuth(self.client_id, self.client_secret)
-        header = {'User-Agent': 'Linux:rules:v1 (by /u/Proud_Tune6552)'}
+        header = {'User-Agent': f'Linux:rules:v1 (by /u/{self.username})'}
         post_data = {'grant_type': 'password',
-                'username': credentials['username'],
-                'password': credentials['password']}
+                'username': self.username,
+                'password': self.password}
         token_info = requests.post("https://oauth.reddit.com/api/v1/access_token",
                                  auth=client_auth,
                                  data=post_data,
@@ -41,22 +41,22 @@ class RedditAPI:
     def make_request(self, url):
         self.ensure_access_token()
         header = {'Authorization': f'bearer {self.access_token}',
-                   'User-Agent': 'Linux:rules:v1 (by /u/Proud_Tune6552)'}
+                   'User-Agent': f'Linux:rules:v1 (by /u/{self.username})'}
         return requests.get(url, headers=header)
 
 
 try:
-    with open('alex-reddit-credentials.json', 'r') as f:
+    with open('reddit-credentials.json', 'r') as f:
         credentials = json.load(f)
     reddit = RedditAPI(credentials)
-    print('verified')
+    print('verified', flush=True)
 except Exception as e:
     print(e)
     exit(1)
 
 # Fetch subreddit information
 for i in range(1, 401):
-    with open(f'data/pages/{i}.csv', 'r') as f, open(f'data/rules/{i}.json', 'w') as o, open('rules.log', 'w') as l:
+    with open(f'data/top-subreddits/{i}.csv', 'r') as f, open(f'data/rules/{i}.json', 'w') as o, open('rules.log', 'w') as l:
         data = []
         subreddits = [s[2:] for s in pd.read_csv(f)['subreddit'].to_list()]
         # subreddits = reddit.info([s[2:] for s in pd.read_csv(f)['subreddit'].to_list()])

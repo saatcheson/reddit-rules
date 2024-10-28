@@ -1,4 +1,4 @@
 .idea/
 *.log
 scrape-venv/
-alex-reddit-credentials.json
+reddit-credentials.json
