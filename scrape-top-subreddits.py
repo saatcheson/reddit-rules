@@ -13,12 +13,12 @@ chrome_options.add_argument("--headless")  # Run in headless mode (optional)
 chrome_options.add_argument("user-agent=email:saatcheson@gmail.com; purpose:searching for top subreddits")
 
 # Set up the WebDriver
-service = Service('scrape/chromedriver-mac-x64/chromedriver')  # Update with the path to your ChromeDriver
+service = Service('scrape-venv/chromedriver-mac-x64/chromedriver')  # Update with the path to your ChromeDriver
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 try:
     with open('scrape.log', 'w') as f:
-        for i in range(1, 401): # 400 web pages, each page contains 250 subreddits
+        for i in range(370, 401): # 400 web pages, each page contains 250 subreddits
             data = {'subreddit': [], 'subscribers': [], 'topic': [], 'subreddit_id': [], 'time': []}
             try:
                 # Open the webpage
@@ -45,7 +45,7 @@ try:
                     data['topic'].append(d[3])
                     data['time'].append(d[4])
 
-                print(f'{i} complete')
+                print(f'{i} complete', flush=True)
                 f.write(f'{i} complete\n')
                 f.flush()
 
