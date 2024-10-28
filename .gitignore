@@ -2,3 +2,5 @@
 *.log
 scrape-venv/
 reddit-credentials.json
+data/rules/
+data/top-subreddits/
