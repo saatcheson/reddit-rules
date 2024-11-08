@@ -56,7 +56,7 @@ except Exception as e:
 
 # Fetch subreddit information
 for i in range(1, 401):
-    with open(f'data/top-subreddits/{i}.csv', 'r') as f, open(f'data/rules/{i}.json', 'w') as o, open('rules.log', 'w') as l:
+    with open(f'data/top-subreddits/{i}.csv', 'r') as f, open(f'data/rules/{i}.json', 'w') as o:
         data = []
         subreddits = [s[2:] for s in pd.read_csv(f)['subreddit'].to_list()]
         # subreddits = reddit.info([s[2:] for s in pd.read_csv(f)['subreddit'].to_list()])
@@ -65,13 +65,12 @@ for i in range(1, 401):
                 response = reddit.make_request(f'https://oauth.reddit.com/r/{subreddit}/about/rules.json')
                 if response.status_code == 200:
                     data.append({'subreddit': subreddit,
-                                 'rules': response.json()['rules']})
+                                 'rules': response.json()['rules'],
+                                 'scraped_utc': time.time()})
                 else:
-                    l.write(f'{i},{subreddit},{response.status_code}\n')
-                    l.flush()
+                    print(f'{i},{subreddit},{response.status_code}\n', flush=True)
             except Exception as e:
-                l.write(f'{i},{subreddit},{str(e)}\n')
-                l.flush()
+                print(f'{i},{subreddit},{str(e)}\n', flush=True)
             time.sleep(0.65)
         json.dump(data, o)
         print(f'{i} complete', flush=True)

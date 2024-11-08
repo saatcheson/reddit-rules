@@ -4,7 +4,7 @@ import json
 
 # configure the regex expression file to use for pattern matching
 with open('patterns/p1.txt', 'r') as f:
-    patterns = f.readlines()
+    patterns = [re.compile(p.strip()) for p in f.readlines()]
 
 
 def is_AI_rule(r):
@@ -22,10 +22,14 @@ def main():
             data = []
             for d in json.load(f):
                 for r in d['rules']:
-                    if is_AI_rule(r['short_name']) or is_AI_rule(r['description']):
-                        r['ai_rule'] = 1    # yes
+                    if is_AI_rule(r['short_name']):
+                        r['ai_rule-short_name'] = 1    # yes
                     else:
-                        r['ai_rule'] = 0    # no
+                        r['ai_rule-short_name'] = 0    # no
+                    if is_AI_rule(r['description']):
+                        r['ai_rule-description'] = 1    # yes
+                    else:
+                        r['ai_rule-description'] = 0    # no
                 data.append(d)
             json.dump(data, o)
         print(f'{i} complete', flush=True)
