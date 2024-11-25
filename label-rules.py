@@ -17,11 +17,14 @@ def is_AI_rule(r):
 
 
 def main():
+    count = 0
     for i in range(1, 401):
         with open(f'data/rules/{i}.json', 'r') as f, open(f'data/rules-ai/{i}.json', 'w') as o:
             data = []
             for d in json.load(f):
                 for r in d['rules']:
+                    r['id'] = count
+                    count += 1
                     if is_AI_rule(r['short_name']):
                         r['ai_rule-short_name'] = 1    # yes
                     else:
