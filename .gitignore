@@ -2,8 +2,7 @@
 .idea/
 *.log
 scrape-venv/
-reddit-credentials.json
+config.json
 data/rules/
-data/rules-ai/
-data/top-subreddits/
+data/subreddits/
 data/formatted*

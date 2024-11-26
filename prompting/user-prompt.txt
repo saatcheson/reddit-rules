@@ -1,0 +1,25 @@
+[Your task]: Use the qualitative codebook to deductively code each subreddit rule based on how the rule addresses the sharing of AI content. Rules will be inputted in the following format:
+
+----- Start Input Format -----
+[Subreddit]: {Subreddit A}
+[Rule ID]: {Some Integer}
+[Short name]: {Title of rule}
+[Description]: {Description of rule}
+
+[Subreddit]: {Subreddit B}
+[Rule ID]: {Some Integer}
+[Short name]: {Title of rule}
+[Description]: {Description of rule}
+----- End Input Format -----
+
+The output should consist of the subreddit name, rule ID, and codes applied to each rule in the following format:
+
+----- Start Output Format -----
+[Subreddit]: {Subreddit A}
+[Rule ID]: {Some integer}
+[Code(s)]: {List of one or more code names separated by ","}
+
+[Subreddit]: {Subreddit B}
+[Rule ID]: {Some integer}
+[Code(s)]: {List of one or more code names separated by ","}
+----- End Output Format -----
