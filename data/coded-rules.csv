@@ -1,0 +1,1742 @@
+,subreddit,rule,code
+0,AceAttorney,"[subreddit]: AceAttorney
+[short_name]: Low-effort content
+[description]: Please avoid the following post types:
+
+Memes, jokes, screenshots of typos or funny/strange moments in the games/anime/manga, gimmicky crossposts from other subs, screenshots of random social media posts, comment sections, or Steam reviews, ""this character looks like this other character"" comparisons, real-world news vaguely similar to events in Ace Attorney games, any AI-generated content, and ""hot take/unpopular opinion"" threads.
+
+Posts in the above categories will be removed.","['removal', 'effort/quality/spam', 'not allowed']"
+1,bts7,"[subreddit]: bts7
+[short_name]: Please limit low-effort posts on non-news or official topics
+[description]: This includes videos, images, social content and text from other sources (including any content from Koreaboo and Allkpop etc.) that don't encourage user discussion.
+
+Please note, we do not allow crossposting threads, live chat threads or posts of edits or AI-generated content on this subreddit. 
+
+Any close-ended questions will be redirected to our weekly Magic Shop thread pinned to the sidebar or at the top of the subreddit.","['not allowed', 'effort/quality/spam']"
+2,NevernessToEverness,"[subreddit]: NevernessToEverness
+[short_name]: Art posts must include character and artist name(s), source, and AI usage.
+[description]: - Non-OC art titles must include the artist's name. Un-sourced art and artist impersonation are not allowed. Provide primary art sources like Art Station or Pixiv, not aggregate sites like Pinterest.
+- Avoid posting AI-generated images, videos, texts, or any content without clearly indicating its AI origin. Posting AI-generated media without disclosure is prohibited.",['disclosure']
+3,RevueStarlight,"[subreddit]: RevueStarlight
+[short_name]: No AI-Generated Art
+[description]: AI-generated art is not allowed in either posts or comments.",['not allowed']
+4,Shantae,"[subreddit]: Shantae
+[short_name]: AI Post
+[description]: Out of respect for our fanart community and the talent behind the Shantae series, generative AI art of any kind is prohibited. This ban includes chatbot conversations and voices.","['protection', 'not allowed']"
+5,CamarynSwanson,"[subreddit]: CamarynSwanson
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+6,MoriCalliope,"[subreddit]: MoriCalliope
+[short_name]: AI art
+[description]: All AI generated art should be clearly labeled as such  in the title &amp; properly flaired.",['disclosure']
+7,ChiorisBoutique,"[subreddit]: ChiorisBoutique
+[short_name]: Sources of your material
+[description]: Art Posts; OC, non-OC &amp; AI
+
+OC and non-OC posts are allowed. You are expected to link a source and credit the original creator if it's not something you created. AI is strictly NOT allowed on here.","['not allowed', 'originality']"
+8,SamMains,"[subreddit]: SamMains
+[short_name]: Source your media
+[description]: Any leaks, art or media that is not created by you should be sourced properly. Please also notice if the creator prohibits reposts. If you did not source your post properly or the creator prohibits reposts, your post will be subject to removal.
+
+AI arts are also prohibited from this subreddit.","['not allowed', 'originality']"
+9,ElvenGirls,"[subreddit]: ElvenGirls
+[short_name]: Credit/source should be provided either in the title or in the comments
+[description]: Please make sure to credit the original artist. If you constantly post pictures with no source (or claim that someone else's artwork is your own OC), they will be removed. This also means no AI ""artwork"" allowed. ","['not allowed', 'originality', 'removal', 'authenticity']"
+10,DesiThiccness,"[subreddit]: DesiThiccness
+[short_name]: Quality Standards
+[description]: 1. Low-resolution or low-quality posts may be removed.
+2. Posts with excessive makeup or filters might also be removed.
+3. Fake or heavily edited or AI Generated posts are not allowed.
+4. Avoid black/white bars around images or videos.
+5. At least one image must clearly show the person’s face.
+6. Vulgar, overly sexualized edits are discouraged.","['not allowed', 'effort/quality/spam', 'authenticity']"
+11,midjourney,"[subreddit]: midjourney
+[short_name]: No Misinformation or Misleading Posts
+[description]: Do not present posts/images in a way that could lead people to believe the images are real, and not AI generated. If it seems like the images could cause this confusion, please clarify in the title and/or comments that it is not.","['disclosure', 'authenticity']"
+12,ArtNouveau,"[subreddit]: ArtNouveau
+[short_name]: Art Nouveau content only please - no digital art
+[description]: Art Nouveau inspired and related posts are acceptable at times, based on the mods' discretion. Generally speaking, you should only post genuine Art Nouveau content. 
+
+Regarding digital art, pop/anime/sci-fi style artwork and AI generated content, this is a subreddit for classic and hand crafted/drawn pieces only. Please post digital/pop/AI content to r/PopArtNouveau.
+
+Lastly, the mods may remove posts that they deem distasteful or low quality.","['not allowed', 'off-topic', 'referral']"
+13,artcommission,"[subreddit]: artcommission
+[short_name]: AI-generated Artwork is NOT Permitted
+[description]: AI-generated artwork is harmful to artists trying to make a living off of their craft and any posts advertising AI artwork, especially trying to make money off of such AI work, is not permitted and will result in a temp ban.","['not allowed', 'ban', 'protection']"
+14,Garmin,"[subreddit]: Garmin
+[short_name]: Spam / Affiliate Links / AI
+[description]: To help keep r/Garmin a safe community, free of malicious activity, the following content is not permitted
+
+- Spam or any other type of unsolicited content
+
+- Survey links that require gathering user information / Data farming
+
+- Discount codes that require users to message privately, leave the forum
+
+- Affiliate links or of any kind
+
+- The use of AI to comment, create post for you, etc 
+
+- Post lacks / doesn’t consign substance to differentiate from spam
+
+- Posting multiple YouTube links a day","['not allowed', 'protection']"
+15,aigreentext,"[subreddit]: aigreentext
+[short_name]: Any AI greentext submissions that are posted as text posts or obviously fake will be removed.
+[description]: Any AI greentext submissions that are posted as text submissions or obviously fake will be removed.","['removal', 'authenticity', 'not allowed']"
+16,GunsNRoses,"[subreddit]: GunsNRoses
+[short_name]: No AI Song Covers
+[description]: You can read more about this rule here: 
+
+https://www.reddit.com/r/GunsNRoses/comments/15h5msn/new_rule_ai_song_covers_are_now_banned/",['not allowed']
+17,Paranormal,"[subreddit]: Paranormal
+[short_name]: No AI content
+[description]: Posts which appear to be written by or with the assistance of AI will be removed. If we have suspicions, we may examine your post history to compare writing style as well as look for signs of suspicious account behavior. ","['not allowed', 'removal', 'control']"
+18,MauLer,"[subreddit]: MauLer
+[short_name]: Don't use AI for your posts, try writing yourself
+[description]: ","['not allowed', 'authenticity']"
+19,Autumn,"[subreddit]: Autumn
+[short_name]: 2. No AI Content
+[description]: Per user request, the posting of AI content is strictly off limits.","['not allowed', 'protection']"
+20,ReactionMemes,"[subreddit]: ReactionMemes
+[short_name]: No AI generated content.
+[description]: Come on, at least post actual content.","['not allowed', 'authenticity']"
+21,goblins,"[subreddit]: goblins
+[short_name]: Rules Regarding AI
+[description]: AI art is allowed, but with a few caveats. 
+
+1. You may not automate the process, you must create the prompt yourself, and upload it yourself.
+2. No spamming it, you may post AI no more than once a week 
+3. You must use a minimum amount of effort. Make sure the art style is cohesive, and that there aren't obvious flaws with anatomy.
+
+Harassing people for posting AI is not okay, and never will be.","['AI for support', 'containment', 'harassment', 'modify/critique']"
+22,okbuddypaleo,"[subreddit]: okbuddypaleo
+[short_name]: Posts must be shitposts
+[description]: If it’s not a shitpost, take it to r/Paleontology, r/Dinosaurs, or r/PrehistoricMemes
+
+If you aren’t sure what a shitpost is, take a look at previous posts here or r/shitposting for a better idea. Posts made with AI will be regarded as not shitposts and removed","['not allowed', 'authenticity', 'removal']"
+23,TorrieWilson,"[subreddit]: TorrieWilson
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+24,aiyu,"[subreddit]: aiyu
+[short_name]: No AI Content
+[description]: AI content is strictly prohibited. This includes but is not limited to, AI Covers, AI edited photos and AI animated characters. Please be mindful where you are obtaining photos for your posts. 
+
+Upscales are fine as long as they improve the quality of the photo rather than substantially altering how she looks.","['AI for support', 'authenticity', 'education', 'some allowed']"
+25,Watercolor,"[subreddit]: Watercolor
+[short_name]: Posts must be watercolor related - NO AI!
+[description]: This means original paintings, questions about works in progress, questions about paper or brushes, other artists etc. Anything related. Mixed media is welcome, as long as watercolor (or gouache) is also used.  Not digital only! No AI Generated images!",['not allowed']
+26,elixir,"[subreddit]: elixir
+[short_name]: No AI-generated content, unless explicitly marked as such.
+[description]: Using ChatGPT or other similar tools to write posts or comments is not permitted here, unless you explicitly say that the content is generated by such an AI.",['disclosure']
+27,Everton,"[subreddit]: Everton
+[short_name]: Banned Sources
+[description]: * Posts from or citing banned sources will be removed (The Sun, Goodison News, Football Insider - O'Rourke exempt) .
+
+* Posts using AI will be removed.",['not allowed']
+28,GanyuAndEula,"[subreddit]: GanyuAndEula
+[short_name]: No Low quality posts 
+[description]: ▪︎It should be same as the source
+
+▪︎Not allowed AI-generated art
+","['not allowed', 'effort/quality/spam']"
+29,ROBLOXStudio,"[subreddit]: ROBLOXStudio
+[short_name]: No Spam / AI Content
+[description]: Posts that are considered spam content will be removed at moderator discretion. Please contribute in other ways such as commenting or submitting your own roblox creations as posts.","['effort/quality/spam', 'removal', 'discretion']"
+30,Shir_Vaturi,"[subreddit]: Shir_Vaturi
+[short_name]: No AI fake videos or pictures
+[description]: ","['not allowed', 'authenticity']"
+31,OroronMains,"[subreddit]: OroronMains
+[short_name]: Credit non-OC Artwork
+[description]: All non original artwork should include a direct link to the artwork. Any non credited work will be removed. All artwork should also be SFW only. AI artwork is not permitted.","['not allowed', 'originality', 'removal']"
+32,krystenritter,"[subreddit]: krystenritter
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+33,hauntedhouses,"[subreddit]: hauntedhouses
+[short_name]: No low effort AI content or Videos
+[description]: No low effort AI content or Videos. Links to ANY faked youtube videos results in instant ban.","['not allowed', 'effort/quality/spam', 'authenticity', 'ban']"
+34,wizardposting,"[subreddit]: wizardposting
+[short_name]: Low Effort Loreposting
+[description]: Low-effort loreposting (loosely defined as only consisting of an AI image among a small amount of text) is not allowed. Commonly reposted material such as character intros and AMA fall under the same restrictions.","['effort/quality/spam', 'modify/critique']"
+35,MarieAvgeropoulos,"[subreddit]: MarieAvgeropoulos
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+36,LeightonMeester,"[subreddit]: LeightonMeester
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+37,personalfinance,"[subreddit]: personalfinance
+[short_name]: Unhelpful or disrespectful
+[description]: We don't allow:
+
+* Circlejerking or karmawhoring
+* Posting just for upvotes or humor
+* Insincerity or dishonesty
+* Trolling, brigading, loaded questions/language, or provoking unproductive conversation
+* Memes or low-effort content
+* Clickbait titles
+* Excessive large, bold, or spaced-out text
+* [Bots](http://bit.ly/3GJH5om) or AI-generated content
+* In-character novelty accounts
+* Insubstantive/ephemeral posts
+* Requesting votes
+* Excessive profanity
+* [Poor reddiquette](http://bit.ly/2vKxaO6)","['not allowed', 'effort/quality/spam']"
+38,disneyprincess,"[subreddit]: disneyprincess
+[short_name]: No AI-generated Images, videos, or other content
+[description]: AI-generated images, videos, and other content are prohibited from this subreddit.",['not allowed']
+39,HollidayGrainger,"[subreddit]: HollidayGrainger
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+40,Hinata,"[subreddit]: Hinata
+[short_name]: No AI generated material
+[description]: Any videos, clips, images, made with the use of AI will be removed. If we accidentally remove real art let us know with the source and we'll fix the mistake.","['not allowed', 'removal', 'authenticity', 'remediation']"
+41,characterdrawing,"[subreddit]: characterdrawing
+[short_name]: No AI Generated, Hero Forge, Artbreeder, or similar for [RF] posts
+[description]: * AI or Hero Forge screenshots (or from similar image-generation services like Artbreeder and DALL-E) are not allowed as [RF] submissions
+*  Generated images are allowed in [LFA]s to supplement character descriptions","['AI for support', 'content requirements/restrictions', 'some allowed']"
+42,Olivia_Thirlby,"[subreddit]: Olivia_Thirlby
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+43,GIDLE,"[subreddit]: GIDLE
+[short_name]: No low effort content, reaction videos
+[description]: **No low effort content, reaction videos.** Exceptions will be made for content featuring (G)I-DLE, the member(s), or other personalities. However, moderator discretion will apply heavily to to this rule. 
+
+This also includes content such as ""bass boosted"", ""empty hall"", unofficial lyric videos or AI generated edits of songs.","['effort/quality/spam', 'not allowed', 'discretion']"
+44,okaymon,"[subreddit]: okaymon
+[short_name]: 🆗 Submission and effort guidelines
+[description]: Post topics or media that promote discussion about AI-generated fakemon, Okaymon, art, tech, or community. Memes are okay. AI output spamming is strongly discouraged. Repeated spamming is a bannable offense.","['effort/quality/spam', 'discouraged', 'not allowed', 'ban']"
+45,Fallout2d20,"[subreddit]: Fallout2d20
+[short_name]: No AI Imagery
+[description]: AI-generated imagery is no longer allowed on the subreddit.",['not allowed']
+46,X23,"[subreddit]: X23
+[short_name]: Rule 4: AI art must be marked as such
+[description]: If you decide to post AI made art of Laura, please state that it is AI in the post title or description. Claiming AI art as your own is not allowed. and while AI art is not banned, let’s please try and avoid posting it repetitively as many (myself included) are against it","['disclosure', 'originality', 'protection', 'discouraged']"
+47,GHannelius,"[subreddit]: GHannelius
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+48,wolves,"[subreddit]: wolves
+[short_name]: No Low-Effort Posts
+[description]: Sharing a picture you found on the internet or AI generated art is low effort.  Sharing a unique photo you took or art that you created yourself is different.","['effort/quality/spam', 'not allowed', 'authenticity']"
+49,filmnoir,"[subreddit]: filmnoir
+[short_name]: No AI need apply
+[description]: Keep discussions focused on the art and cinema that hardworking folks have crafted. No AI content is allowed, including noir reinvisionings, images or video, or otherwise.","['not allowed', 'authenticity']"
+50,GiorgiaVela,"[subreddit]: GiorgiaVela
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+51,EmmaWatsonHot,"[subreddit]: EmmaWatsonHot
+[short_name]: No AI posts
+[description]: No AI creations. This includes AI Audio creations.",['not allowed']
+52,BocchiTheRock,"[subreddit]: BocchiTheRock
+[short_name]: AI related content
+[description]: AI related content, such as AI art and AI generated text, is not allowed and will get removed.","['not allowed', 'removal']"
+53,fanStands,"[subreddit]: fanStands
+[short_name]: Put some effort and creativity in your posts
+[description]: Posts on this subreddit should demonstrate the poster's creativity. To enforce this, low-effort posts simply meant to quickly get attention and karma are not allowed.
+
+The bare minimum for a good post is to have at least two out of the following: a name for your Stand, an ability, and original artwork.
+
+Content made by something like generatestand.com is not allowed. Images made using tools like HeroForge or an image-generating AI should be accompanied by a name AND ability (see rule 6).","['effort/quality/spam', 'content requirements/restrictions']"
+54,Showerthoughts,"[subreddit]: Showerthoughts
+[short_name]: All content must be original.
+[description]: Everything offered in /r/Showerthoughts must be written by its poster.
+
+AI-generated content, copied-and-pasted content, and other such unoriginal content is strictly forbidden.
+
+[Read more here](https://www.reddit.com/r/Showerthoughts/wiki/rules#wiki_all_submissions_must_be_original.).","['not allowed', 'originality', 'authenticity']"
+55,dio,"[subreddit]: dio
+[short_name]: No AI content! 
+[description]: Any AI content imitating Dio's voice will be removed. Other AI related art MAY be removed at the mods discretion.  ","['removal', 'authenticity', 'discretion', 'some allowed']"
+56,goodomens,"[subreddit]: goodomens
+[short_name]: No AI-generated Content
+[description]: We do not permit AI generated content on this sub, including art, fiction, photographs, posts, etc. All such content will be removed.","['not allowed', 'removal']"
+57,okbuddyhololive,"[subreddit]: okbuddyhololive
+[short_name]: Flair/Tag Guide
+[description]: Holotard - general holotardation.
+
+Text/copypastas - If you're writing the next Pekopasta.
+
+/uh - Meta/discussion posts. 
+
+OC - Artwork you made.
+
+Mp4 -  Video memes.
+
+AI posts - Posts with AI generated content.
+
+NSFW tag - porn, gore, etc. (NO LOLI NSFW. NEVER.)",['disclosure']
+58,encounteredjesus,"[subreddit]: encounteredjesus
+[short_name]: The, ""I got your back,"" Rule
+[description]: Report users who engage in cult-recruiting.  If you are spiritually abused/manipulated in chat, report it to Mods. It's important to identify unsafe people and/or communities who hide behind the name, ""Christian,"" yet aren't promoting the true lifestyle of faith that Jesus teaches.
+
+Report bullying. Jesus was not a bystander.  
+
+No AI or bot-generated posts / comments. Salvation from sin is a gift from God, that we humans work out with fear and  trembling before Him. Report suspicious users.","['not allowed', 'authenticity', 'report']"
+59,ImaginaryAnthro,"[subreddit]: ImaginaryAnthro
+[short_name]: No AI art
+[description]: No art generated by AI or machine learning.",['not allowed']
+60,liminalspaces,"[subreddit]: liminalspaces
+[short_name]: Quality and Resolution
+[description]: While we understand that not all submissions will be of professional quality, please try to share pictures and videos that are clear and well-composed. Low-resolution or excessively blurry images may be removed at the moderators' discretion. We also do not allow AI generated content on this subreddit.","['effort/quality/spam', 'not allowed']"
+61,InsideJob,"[subreddit]: InsideJob
+[short_name]: No AI generated content
+[description]: ",['not allowed']
+62,Lackadaisy,"[subreddit]: Lackadaisy
+[short_name]: Media Guidelines
+[description]: - No Art Theft
+- No AI Art/Text
+- Traced Art MUST be posted with Ref
+- Art that includes blood, body horror, or artistic nudity, must have a spoiler and warning tag
+  - Pornographic content in any manner is not allowed
+- Images depicting torture, severe gore, and animal abuse, are not allowed",['not allowed']
+63,NatalieMartinez,"[subreddit]: NatalieMartinez
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+64,caloriecount,"[subreddit]: caloriecount
+[short_name]: No product promotion
+[description]: Do not post products, websites, channels, or subreddits you are promoting or thinking of creating. This includes AI bots or using AI to formulate answers to people.",['not allowed']
+65,printSF,"[subreddit]: printSF
+[short_name]: No AI-generated content.
+[description]: Users come here for the opinions of and discussion with other human beings. The cognitive slurry of generative AI adds no value and will be treated as spam.","['not allowed', 'authenticity', 'effort/quality/spam']"
+66,YosHi,"[subreddit]: YosHi
+[short_name]: AI generated art
+[description]: If you are posting content that is made by AI, please clearly state that in your post title. Please try to limit AI posts to no more than 1 per week
+
+If someone posts AI art, please do not harass or threaten them; if you aren't a fan, please move on from that post and if it is in violation of our rules, report it to the moderators","['disclosure', 'containment', 'harassment', 'report', 'authenticity']"
+67,CookingClones,"[subreddit]: CookingClones
+[short_name]: On topic
+[description]: All posts must be cooking or cooking clone related. After all, this is /r/CookingClones. The name kind of says it all. If the topic is questionable, then it most likely isn't OK to post.
+
+Content written or developed by AI programs such as ChatGPT, etc., is NOT allowed.","['not allowed', 'off-topic']"
+68,ChinitaPH,"[subreddit]: ChinitaPH
+[short_name]: No AI content
+[description]: - Content must be of a real person, AI content or AI generated images/videos are not allowed.
+
+- Filters or heavy use of filters are unavoidable depending on the content.","['authenticity', 'not allowed']"
+69,PizzaCrimes,"[subreddit]: PizzaCrimes
+[short_name]: Easily Faked Posts
+[description]: Easily faked posts (including AI generated images) may be removed at mod discretion","['not allowed', 'authenticity', 'discretion', 'removal']"
+70,solarenergy,"[subreddit]: solarenergy
+[short_name]: No AI content
+[description]: Posts should not be ChatGPT or AI written content",['not allowed']
+71,EllenJoeMains,"[subreddit]: EllenJoeMains
+[short_name]: Non-OC art must be properly cred with the artist's permission. AI art is prohibited.
+[description]: When reposting art, always try your best to link back to the ORIGINAL source of artwork, music, and posts you come across. You can use sites such as SauceNAO to find the source of the artwork. OC art is exempt from this rule. Moderators will remove Non-OC art posts that do not have the original source included. The original artist must also give permission to repost their work. AI-generated artworks clearly derived from other artworks are prohibited.","['not allowed', 'originality', 'removal']"
+72,drawme,"[subreddit]: drawme
+[short_name]: Quality
+[description]: Full head portraits, no cropped heads. No phones in front of faces.
+
+Photos must be well-lit, sharp and clear, and must not have any filters/stickers applied.
+
+No snapchat images.
+
+Artwork must have significant resemblance of subject.
+
+Artwork that is photo-manipulation is prohibited.
+
+Images generated by AI (machine-learning tools) are strictly prohibited and violators may be banned
+
+Posting the ""Trisha"" drawing from Napoleon Dynamite is low-effort, unoriginal and overdone.  Don't do it.","['not allowed', 'ban']"
+73,OriginalMoe,"[subreddit]: OriginalMoe
+[short_name]: Only Half AI Generated
+[description]: Must be at least manually edited AI artwork, no pure AI generated artwork","['authenticity', 'modify/critique']"
+74,FrutigerAero,"[subreddit]: FrutigerAero
+[short_name]: No AI content allowed
+[description]: Due to the high amount of low quality AI posts on the subreddit, we no longer allow AI generated media to be posted. Please post to r/FrutigerAIro instead.","['not allowed', 'effort/quality/spam', 'referral']"
+75,49ers,"[subreddit]: 49ers
+[short_name]: No Low-Quality Art or Memes
+[description]: We encourage high-quality art, memes and jokes. Low-quality, low-effort memes and jokes will be removed (This includes AI art).","['effort/quality/spam', 'not allowed', 'removal']"
+76,DesignMyRoom,"[subreddit]: DesignMyRoom
+[short_name]: No posts with artificial or 3D rendered content, surveys, or spam!
+[description]: **Spam includes:** product reviews, advertising, sales, affiliate links/codes, and promotional content. Do not use r/designmyroom to promote your socials, advertise your businesses, make a profit, or sell your product(s). 
+
+Posts with 3D room rendering without room photos, and any AI-generated content and ChatGPT will be considered to be spam. Deleting and reposting will be considered to be spam.","['effort/quality/spam', 'not allowed', 'authenticity']"
+77,TheNightFeeling,"[subreddit]: TheNightFeeling
+[short_name]: AI Art Should Be Flaired
+[description]: AI art is currently in a state of flux. It's hard to know who created the images used in  the training data, or what the legal or ethical background of a given generator is. It's also becoming increasingly hard to tell when an image is AI or not. For all these reasons, many users avoid AI art. To avoid confusion and allow these users to avoid this art, you should attach the ""AI Art"" flair when posting images made by AI.","['disclosure', 'protection', 'education', 'originality', 'authenticity']"
+78,BettyGilpin,"[subreddit]: BettyGilpin
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+79,IchinoseAsuna,"[subreddit]: IchinoseAsuna
+[short_name]: No AI-generated Art
+[description]: No AI-generated ",['not allowed']
+80,GusBirney,"[subreddit]: GusBirney
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+81,GloriousTomBombadil,"[subreddit]: GloriousTomBombadil
+[short_name]: Choose appropriate flairs for your posts
+[description]: We have tons of post flairs you can choose from, and therefore ask you to select one that represents the content of your post. If you do not believe any of the flairs is appropriate for your post, simply choose ""Casual Bombapost"". Any post with a flair that is not representative of its content could be subject to removal.
+
+Additionally, when it comes to art, we ask that you differentiate human-made art from AI-generated art by selecting the correct flair.",['disclosure']
+82,learntyping,"[subreddit]: learntyping
+[short_name]: Do not use AI tools to generate posts or comments
+[description]: AI-generated responses from ChatGPT and other tools are not welcome.",['not allowed']
+83,DoctorNowhere,"[subreddit]: DoctorNowhere
+[short_name]: As Dr Nowhere said, no AI of his art.
+[description]: Do not post ai generated images or videos made from his art if he did not consent to it.","['not allowed', 'originality', 'removal']"
+84,PolyYuri,"[subreddit]: PolyYuri
+[short_name]: No AI generated images
+[description]: AI generated images are not allowed. However, AI-assisted artworks may still be allowed at moderator discretion.","['AI for support', 'discretion', 'some allowed']"
+85,TheTenThousand,"[subreddit]: TheTenThousand
+[short_name]: Artwork must include source and no AI art
+[description]: None","['not allowed', 'originality']"
+86,AcheronMainsHSR,"[subreddit]: AcheronMainsHSR
+[short_name]: AI Art Prohibition
+[description]: ・ Any form of art created or assisted by an Artificial Intelligence (AI) is prohibited on r/AcheronMainsHSR.
+
+Due to the nature of how effortless it is to create one, we believe that AI art hurts the artist community, their growth, as well as their potential revenue. We believe it is unethical to support AI technology that feeds on already existing artworks without the artist's consent, and as such prohibit the sharing of the same on r/AcheronMainsHSR.","['not allowed', 'effort/quality/spam', 'protection', 'originality']"
+87,LaCancionDeAlicia,"[subreddit]: LaCancionDeAlicia
+[short_name]: No AI ""Leads""
+[description]: Anything AI says is not a lead. Sharing conversations you've had with AI regarding the song are fine, but do not state that anything from it is a lead. AI generates statements based off of previous human conversation. Search ""AI Hallucination"" to learn more.","['authenticity', 'education', 'reliability', 'some allowed']"
+88,HSRHusbandos,"[subreddit]: HSRHusbandos
+[short_name]: No AI art/chatbots.
+[description]: We do not allow AI-generated content of any kind, due to the nebulous ethics behind how they were trained and are used. AI art or chatbot posts will be removed.","['not allowed', 'originality', 'removal']"
+89,Disgaea,"[subreddit]: Disgaea
+[short_name]: Provide a Source for Art
+[description]: Art must be by a human. Please don't post AI-generated content or other art without an original artist.
+
+If you post your own fan art, please use the ""OC"" tag or add [OC] to the title of your post.
+
+If you post someone else's art, please put the artist's username in the title. After posting please comment with a link to their DeviantArt, website, or social media. Please also do this for cross-posted images because Reddit doesn't show the cross-posted information to people on mobile apps.","['authenticity', 'not allowed']"
+90,ZhongliMains,"[subreddit]: ZhongliMains
+[short_name]: Overall quality
+[description]: Posts with low-quality/effort content will be removed, including:  
+
+- Single artifact or incomplete artifact set  
+
+- Build showcase/card that is far from being complete  
+
+- Repeated posts of same type, topic, or discussion  
+
+- Post that does not contribute to an interesting, constructive, or helpful discussion for the community  
+
+- AI-generated images","['effort/quality/spam', 'not allowed', 'removal']"
+91,StoicMemes,"[subreddit]: StoicMemes
+[short_name]: No AI Content
+[description]: Memes cannot be created via artificial intelligence ","['authenticity', 'not allowed']"
+92,pushupbras,"[subreddit]: pushupbras
+[short_name]: Label AI-generated content
+[description]: If it's AI generated, please use the relevant flair tag. In this sub, we prefer the real thing. Plenty of other subreddits for computer-generated erotica. Same goes for hentai/cartoon pics.","['disclosure', 'authenticity']"
+93,Tyla,"[subreddit]: Tyla
+[short_name]: Do not attempt to pass AI songs off as official
+[description]: All posts of AI songs must use the AI flair and make it explicitly clear the song is AI in the title. Attempting to pass an AI song off as legit will result in a ban.","['authenticity', 'disclosure', 'ban']"
+94,ChurchOfFuuka,"[subreddit]: ChurchOfFuuka
+[short_name]: THOU SHALT NOT POST AI
+[description]: Do not post anything AI generated, whether that be AI art, chatbots, or voice programs.",['not allowed']
+95,booksuggestions,"[subreddit]: booksuggestions
+[short_name]: No AI or ChatGPT posts or comments
+[description]: No robots allowed. Zero tolerance on AI/ChatGPT posts &amp; comments. ",['not allowed']
+96,GTAO,"[subreddit]: GTAO
+[short_name]: No Repetitive Posts, Low Effort Posts, A.I.-Generated Content, or Reposts
+[description]: Posts considered to be repetitive or lacking effort will be removed. This includes posts that harp on the same thing without bringing anything new to the conversation or posts that do not lead to any meaningful discussion or engagement.
+
+Posts or comments generated by A.I. are not allowed.
+
+Reposting your own post or someone else's post to gain more karma is also not allowed and will be removed.",['not allowed']
+97,Darkinfolk_,"[subreddit]: Darkinfolk_
+[short_name]: Content Rules
+[description]: - Posts have to be League of Legends related in some way 
+
+- Posts need to have at least some humor value, be it for memes or writing or whatever, OC art and cosplaying is excluded from this rule and can be posted freely
+
+- Art and meme reposts are lame unless it's used for a text post (sometimes people just put a random image there so it's fine)
+
+- Sexualization of characters like Annie, Zoe, Smolder, Gnar etc. will be removed
+
+- AI ""art"" is not allowed","['not allowed', 'authenticity']"
+98,ImaginaryAssassins,"[subreddit]: ImaginaryAssassins
+[short_name]: Submit credited, sourced paintings and drawings.
+[description]: a. Follow title format: Art Title by Artist Name. Add no other info, except if to tag as OC.
+
+b. Comment with an artist published website link. We want to drive some traffic to the creators!
+
+c. Traditional paintings and drawings only. No videos, screenshots, photography, audio, multi-panel comics, content generated or AI-assisted submissions.
+
+d. Posting your own work? See our best practices for submitting OC: /r/ImaginaryBestOf/wiki/oc
+
+See All: r/ImaginaryBestOf/wiki/rules","['off-topic', 'not allowed']"
+99,brysontiller,"[subreddit]: brysontiller
+[short_name]: Do not attempt to pass AI songs off as official
+[description]: All posts of AI songs must use the AI flair and make it explicitly clear the song is AI in the title. Attempting to pass an AI song off as legit will result in a ban.","['authenticity', 'disclosure', 'ban']"
+100,LOONA,"[subreddit]: LOONA
+[short_name]: Follow title guidelines
+[description]: [See this table](https://www.reddit.com/r/LOONA/wiki/rules#wiki_title_guidelines) under the full submission guidelines for details. Titles should be descriptive of content and not editorialized. Posts with UNNECESSARY ALL CAPS, clickbait, or titles that are excessively long may also be removed. Users posting AI-generated content must state it as such in the title of the post. Don't forget to assign an appropriate flair to your post.",['disclosure']
+101,nzpolitics,"[subreddit]: nzpolitics
+[short_name]: Avoid the use of AI when writing posts
+[description]: As with Rule 10, we welcome debate but discourage use of artificial intelligence when writing here.   We encourage users to write their own posts, and avoid any AI, as it often contains factual errors when pertaining to New Zealand politics.   
+
+We reserve the right to remove any posts we suspect have been written by AI.","['authenticity', 'education', 'reliability', 'discretion', 'removal']"
+102,Star_Rail_Wallpapers,"[subreddit]: Star_Rail_Wallpapers
+[short_name]: AI Generated Images
+[description]: Since AI GENERATED ""art"" is **trained** on datasets of **existing** artists' art, this subreddit will DISCOURAGE the posting of AI GENERATED art. If you wish to post AI GENERATED art here, please make sure it is related to **Honkai: Star Rail**, and is labeled as ""AI GENERATED.""","['education', 'disclosure', 'authenticity', 'originality', 'discouraged']"
+103,rugrats,"[subreddit]: rugrats
+[short_name]: Make An Honest Effort
+[description]: Please make an effort to create readable content. Posts and comments with incomplete or incoherent thoughts, major grammar or spelling errors, unreadable characters, lengthy unformatted links, gratuitous whitespace, excess emoji, or AI generated content are some examples of violations to this rule. Try to also be considerate of mobile users. Our goal is to encourage engaging discussion so quality posts are key.","['effort/quality/spam', 'not allowed']"
+104,Bible,"[subreddit]: Bible
+[short_name]: No AI or Bot Generated Comment
+[description]: If you suspect a post of being AI or Bot generated, please report it. If you are thinking of submitting AI or Bot generated content, then please don't.","['report', 'not allowed']"
+105,AICharacterDrawing,"[subreddit]: AICharacterDrawing
+[short_name]: Recommended Tags
+[description]: Those tags are not obligatory, but it's encouraged to add them:
+
+[AIG] AI Generated art that had little human involvement other than prompting or minor editing.
+
+[AIA] AI Assisted art that had a reasonable level of human involvement (such as heavy editing with external software, combining that with inpainting, drawing sketches personally then generating with image to image, etc.)
+
+[AII] AI inspired content, when a traditional artists use AI for inspiration but otherwise draw the art themselves.",['disclosure']
+106,Robin,"[subreddit]: Robin
+[short_name]: No stealing art/AI art.
+[description]: If you claim art is yours and it's proven other wise your post will be removed and it will count as a strike against your account for future rule breaking.
+
+If you post something that is AI art it will also be removed. This is a comic subreddit so we like to support actual artists hard work even if its just newbie fan art.","['protection', 'removal', 'not allowed', 'originality']"
+107,modelmakers,"[subreddit]: modelmakers
+[short_name]: Stay on-topic.
+[description]: Plastic, resin, balsa, paper and wooden kits are on-topic. If you build it and paint it, it's probably on-topic. 3D printed models are OK if painted and finished.
+
+The following are off-topic:
+
+3D virtual models incl AI generated
+
+Wooden or foam slot-together objects (e.g. Ugears and similar)
+
+Metal Earth kits (r/metalearth )
+
+Lego builds (r/lego &amp; r/AFOL )
+
+Building toy builds
+
+Toys
+
+Memes (r/scalemodelmemes)
+
+Sales (without mod approval)
+
+Other off-topic posts, as determined by the moderators","['off-topic', 'not allowed']"
+108,BrittRobertson,"[subreddit]: BrittRobertson
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+109,scarletspider,"[subreddit]: scarletspider
+[short_name]: Artwork/Comic Panels
+[description]: Art: Credit the artist or mark as [OC]. Uncredited work will be removed. Please include the artist’s name in the title of the post. AI artwork is not allowed at all. If a post includes a comic panel/page, it must include the source of it in the comments or in the title, unless it is asking which comic the panel/page is from. If not, it will be removed.","['not allowed', 'originality']"
+110,loserprison,"[subreddit]: loserprison
+[short_name]: 𝙳𝚒𝚜𝚊𝚕𝚕𝚘𝚠𝚎𝚍 𝙿𝚘𝚜𝚝𝚜
+[description]: • NSFW [posts that feature exposed/well-defined genitalia, nipples, or are fetishistic]
+
+• Requests [requests for other people to post a type of content]
+
+• Reposts [repost for biggie cheese, ignore for hell, that kinda thing]
+
+• Personal PMs [they're called private messages for a reason]
+
+• AI [the general public will stampede you if you post this kinda thing]
+
+• Gore [don't be stupid]
+
+• Losercity Talk [it's jover]","['harassment', 'not allowed']"
+111,Nerf,"[subreddit]: Nerf
+[short_name]: Low Effort Content
+[description]: Do not post scripted war footage, photos of single stock blasters (see wiki link), non-Nerf 3d printing questions, or meme/joke posts [unless they qualify for these exceptions](https://www.reddit.com/r/Nerf/wiki/rules#wiki_categorical_restrictions).
+
+Joke/Meme posts -&gt; r/NerfChatter.
+
+When posting concept art, please provide a proposed sketch of internals, and keep drawings to scale. Any meme edits, poor quality photoshop jobs, AI generated, etc, will be removed. (See wiki link for examples)","['effort/quality/spam', 'removal', 'not allowed']"
+112,latin,"[subreddit]: latin
+[short_name]: Machine translators and AI are not reliable.
+[description]: ChatGPT, Google Translate, and the like will confidently give you wrong answers about translations and Latin grammar. And if you only have a beginner's proficiency in Latin, there will be enough correct information to trick you. Generally, posts about machine translators and AI will be removed.","['education', 'reliability', 'removal', 'not allowed']"
+113,BLAHAJ,"[subreddit]: BLAHAJ
+[short_name]: Minimum effort
+[description]: Posts should have a minimum of effort. This means no AI generated images/conversations. Also, no text posts that just say “I’m going to buy a blahaj”. Just wait until you get a blahaj and take a picture of it. It’s much better content. 
+
+Image must have a decent resolution, lightning and Blahaj must be clearly visible.
+
+Posts like “Should I buy a blahaj?” are also considered low effort. My brother in Christ you are on the blahaj subreddit, what do you expect other than people answering yes?","['effort/quality/spam', 'not allowed']"
+114,quilting,"[subreddit]: quilting
+[short_name]: Rule 7 - Stolen Work
+[description]: Posting stolen work (virtual or real) will result in a permanent ban. This includes but not limited to the following: posting photos of quilt(s) that aren't your own and claiming it is yours, posting about a quilt in any form you stole from someone else, posting about stolen patterns or tutorials. With the growing use of AI generating images by stealing from artists,  we stand by original creators and will not be allowing AI “quilts.”","['originality', 'protection', 'not allowed', 'authenticity', 'ban']"
+115,RinaLipa,"[subreddit]: RinaLipa
+[short_name]: No fake Images
+[description]: Deep Fake and AI Not allowed.","['not allowed', 'authenticity']"
+116,ginajang,"[subreddit]: ginajang
+[short_name]: Content Policy
+[description]: Avoid posting low effort content. (Uncropped images, low quality, etc.) - No AI generated images, fakes, etc.","['effort/quality/spam', 'not allowed', 'authenticity']"
+117,KatieCassidy,"[subreddit]: KatieCassidy
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+118,PWHL,"[subreddit]: PWHL
+[short_name]: AI Posts Are Prohibited
+[description]: r/PWHL supports human artists and does not permit the posting of AI generated art. 
+
+This is a subreddit for humans to engage with other humans - AI may not be used to write posts/comments unless used to provide accessibility to users as a tool. 
+
+Mods will retain discretion in removing posts/comments suspected of being generated by AI. ","['not allowed', 'authenticity', 'protection', 'discretion', 'removal', 'AI for support']"
+119,AdelaideKane,"[subreddit]: AdelaideKane
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+120,doowop,"[subreddit]: doowop
+[short_name]: No AI generated content
+[description]: Any post featuring AI generated content will be deleted, repeat offenders will be suspended, continued violation of the rule will result in a ban. ","['not allowed', 'removal', 'ban']"
+121,goodomensprime,"[subreddit]: goodomensprime
+[short_name]: No AI content
+[description]: ",['not allowed']
+122,TomHolland,"[subreddit]: TomHolland
+[short_name]: No AI generated content 
+[description]: No AI generated content allowed - this includes artwork, deepfake videos, voice generations etc.              
+",['not allowed']
+123,Mistborn,"[subreddit]: Mistborn
+[short_name]: Respect intellectual property, and attribute art/content.
+[description]: Piracy and copyright infringement are strictly forbidden. With some exceptions, all content must comply with [Dragonsteel's licensing and fanart policies](https://faq.brandonsanderson.com/knowledge-base/can-i-make-fan-art-or-write-fan-fiction/). Artwork must be attributed and may not be posted against the artist's wishes.
+
+All content created with the use of AI software must be identified as such, and must include non-trivial original user contributions along with a description of that effort.","['originality', 'disclosure', 'content requirements/restrictions', 'modify/critique']"
+124,celebritymouths,"[subreddit]: celebritymouths
+[short_name]: No AI garbage
+[description]: ","['not allowed', 'effort/quality/spam']"
+125,college,"[subreddit]: college
+[short_name]: Posting Requirements
+[description]: Users must have an account over 1 week old and with over 10 comments to post or comment. Any automated AI bot response will result in a ban.","['not allowed', 'ban']"
+126,Kimagure_Orange_Road,"[subreddit]: Kimagure_Orange_Road
+[short_name]: AI-Generated Art Posts MUST be Tagged/Flaired as ""AI-Generated""
+[description]: While AI-Generated Art is allowed, it must be tagged/flaired using the ""AI-Generated"" flair when you create the post to differentiate it from original artwork.","['disclosure', 'originality']"
+127,Plana_Enjoyers,"[subreddit]: Plana_Enjoyers
+[short_name]: No AI art
+[description]: Yes, this place may be centred around Plana and Arona, but we can’t have their arts leaking into this sub.","['not allowed', 'off-topic']"
+128,geometrydash,"[subreddit]: geometrydash
+[short_name]: Low-effort, common, or spam submissions are prohibited.
+[description]: All content should enable discussion and contribute something new to the community. Low-effort memes, insignificant level progress, and common/reoccurring posts will be removed. Format memes are heavily discouraged. 
+
+**Any post made entirely using AI/Generative AI is considered low-effort.**
+
+For more information about our removal guidelines and what constitutes a low-effort or common post, read our [Rule 3 Guidelines](https://www.reddit.com/r/geometrydash/wiki/rule-3/).","['effort/quality/spam', 'not allowed', 'modify/critique', 'content requirements/restrictions']"
+129,analog,"[subreddit]: analog
+[short_name]: No Digital Photos and AI Generated Photos
+[description]: All submitted photos must have originated on film (or an alternative process).  Analog and digital post-processing work is both allowed and encouraged; however, extensive manipulation should be disclosed in the comments. ""AI"" created images are not allowed, we consider this a digital asset modification.
+
+If you suspect a photo was taken digitally, extensively modified using digital assets, or AI generated please report the image, and modmail with your evidence. Do not comment on the thread.","['not allowed', 'off-topic', 'report']"
+130,ASMRScriptHaven,"[subreddit]: ASMRScriptHaven
+[short_name]: Posting Rules for Completed Audios
+[description]: FOR AUDIOS –
+You can ONLY post an audio here if the script you used was posted here.
+
+If you completed a script, post it on the ORIGINAL POST of the script! Then you can make a post dedicated just to the audio. 
+
+Link back to the post of the original script in your audio post.
+
+You must credit the writer of your script.
+
+Title of your post must include a tag indicating who the audio is for [M4F] [A4A] [M4M] etc., the title of the audio, and a tag for [Romantic] [Creepy] [Cute] etc
+
+NO AI CONTENT",['not allowed']
+131,Elephants,"[subreddit]: Elephants
+[short_name]: No AI generated submissions
+[description]: ",['not allowed']
+132,StylishLongHairWaifus,"[subreddit]: StylishLongHairWaifus
+[short_name]: No AI-generated Art
+[description]: ",['not allowed']
+133,bankaifolk,"[subreddit]: bankaifolk
+[short_name]: Credit all Fan-Art
+[description]: - If you are posting other people’s work, mention them in the title and link their account in the comments. Unless of course your post was submitted specifically to ask who the artist is.
+
+- When reposting artwork, limit the number of posts you make from the same person to (at least) only 1 per week.
+
+- No AI art","['not allowed', 'originality']"
+134,melodicdeathmetal,"[subreddit]: melodicdeathmetal
+[short_name]: No AI generated content
+[description]: Posting AI music is not allowed. If you want to share AI generated content do so as comment under the weekly discussion thread.","['some allowed', 'containment']"
+135,zizek,"[subreddit]: zizek
+[short_name]: No Quoting AI statements.
+[description]: Comments (and posts) that use ChatGTP answers etc. are banned. While they provide highly eloquent answers to questions, they are usually wrong.","['not allowed', 'reliability']"
+136,Ghostbc,"[subreddit]: Ghostbc
+[short_name]: Memes, Shitposts &amp; Low Quality Content.
+[description]: Low quality content will be removed. This includes user submitted polls, AI generated images and other AI media, as well as low-effort selfies. You may now post Memes and Shitposts over on our sister site, r/GhostCircleJerk.","['effort/quality/spam', 'not allowed', 'referral', 'removal']"
+137,Glitch_in_the_Matrix,"[subreddit]: Glitch_in_the_Matrix
+[short_name]: Sounds fake
+[description]: We have a zero tolerance on fiction or AI created posts. Even if a story just SOUNDS fake it will still get deleted. Is there too much detail, over elaboration and just generally sounding like bullshit? Report it.","['not allowed', 'authenticity', 'education', 'report']"
+138,Spyro,"[subreddit]: Spyro
+[short_name]: No AI generated content on the subreddit.
+[description]:  The subreddit voted in a subreddit wide [poll] (https://www.reddit.com/poll/16z5efj?utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=Spyro&amp;utm_content=t3_16z5efj) to not allow any AI generated content on the subreddit whatsoever.","['protection', 'not allowed']"
+139,Aisha_Sharma,"[subreddit]: Aisha_Sharma
+[short_name]: Only ""Non-Nude realistic fakes"" or ""Nude AI Fakes"" are allowed.
+[description]: Realistic Nudes strictly prohibited. But Nude AI is allowed.",['AI as artifact']
+140,DebateReligion,"[subreddit]: DebateReligion
+[short_name]: Quality Posts and Comments
+[description]: Posts and comments will be removed if they are disruptive to the purpose of the subreddit. This includes submissions that are: low effort, proselytizing, uninterested in participating in discussion, made in bad faith, off-topic, or unintelligible/illegible. Posts and comments must be written in your own words (and not be AI-generated); you may quote others, but only to support your own writing. Do not link to an external resource instead of making an argument yourself.","['authenticity', 'not allowed']"
+141,AliciaAtout,"[subreddit]: AliciaAtout
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+142,sunset,"[subreddit]: sunset
+[short_name]: No screenshots, AI images, or poor quality
+[description]: - This is a subreddit to share beautiful images and artworks of a sunset, so please only submit high quality images.
+
+- No screenshots of a sunset
+
+- No AI images
+
+- Heavily photoshopped, edited, or filtered to the point that the sunset looks AI will also be removed. *Minor editing, touch-ups, filters are fine.*
+
+- No extra text, emojis, etc... on images. You may add your own personal name or watermark if the image is OC.
+
+- Help report AI content by using the command ""AI!"" without quotes.",['not allowed']
+143,jennacoleman,"[subreddit]: jennacoleman
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+144,DollyParton,"[subreddit]: DollyParton
+[short_name]: No AI Images or Content
+[description]: AI generated images and content are not allowed in this subreddit. Users with multiple violations will be banned.","['not allowed', 'ban']"
+145,TekkenGirls,"[subreddit]: TekkenGirls
+[short_name]: No completely low-effort content like AI generated Art.
+[description]: ","['effort/quality/spam', 'not allowed']"
+146,TheFirstLaw,"[subreddit]: TheFirstLaw
+[short_name]: Low-effort content, including AI works, is discouraged and may be removed at moderator discretion.
+[description]: Low-effort posts (eg: crossposts from other subreddits, except for textposts that provoke discussion, posting images that are otherwise not related to The First Law etc.) are not allowed.","['effort/quality/spam', 'discretion', 'removal', 'not allowed', 'discouraged']"
+147,BaldursGate3,"[subreddit]: BaldursGate3
+[short_name]: No AI generated content or discussion
+[description]: No AI generated content or discussion allowed",['not allowed']
+148,burgers,"[subreddit]: burgers
+[short_name]: Posts Must Be Related To Burgers
+[description]: Posts and comments should be related to burgers. Off topic posts and comments may be removed without warning. No memes and no AI-generated burgers are allowed. Cross-posts are allowed only if it is your own post. Burgers without buns may also be subject to removal, this refers to posts such as Loco Mocos.","['not allowed', 'off-topic']"
+149,commissions,"[subreddit]: commissions
+[short_name]: No AI
+[description]: - If you advertise AI-generated content, or any art that does not belong to you, you will be immediately banned.","['originality', 'ban', 'not allowed']"
+150,freemusic,"[subreddit]: freemusic
+[short_name]: No A.I. Music or Lyrics!    Immediate Ban!
+[description]: No AI-created lyrics or music allowed.  No warnings. Instant ban.","['not allowed', 'ban']"
+151,keto,"[subreddit]: keto
+[short_name]: No Low Effort Posts
+[description]: Low effort posts will be removed. The following are the criteria for defining a post as low effort: title-only posts, posts with under 200 characters including those that contain only links to articles or images/memes, posts asking questions that are explicitly answered in the FAQ, etc. Save your memes for r/ketocirclejerk.   
+
+AI generated comments and content will be removed as they are considered to be low effort. This community is meant for humans interact with one another not bots.","['authenticity', 'effort/quality/spam', 'not allowed', 'removal']"
+152,XXXTENTACION,"[subreddit]: XXXTENTACION
+[short_name]: No AI Content of Any Sort
+[description]: Any sort of AI-generated content whether that be artwork, music, chat bots, etc. will be automatically removed. This sub has no place for content that wasn't created by a real, talented human being.","['authenticity', 'not allowed', 'removal']"
+153,SleepToken,"[subreddit]: SleepToken
+[short_name]: Low Effort Posts, Memes and AI Generated Content
+[description]: Posts that are low effort, repeat/lazy memes or contain AI generated content will be removed. Examples: ""What song is this"", ""Look how many plays I have"".","['not allowed', 'effort/quality/spam', 'removal']"
+154,Ithkuil,"[subreddit]: Ithkuil
+[short_name]: No AI generated content, AI hype or AI speculation
+[description]: ",['not allowed']
+155,Chaos40k,"[subreddit]: Chaos40k
+[short_name]: Post original work
+[description]: OC in the form of art, models, paintwork etc must not be posted by anyone other than the owner. 
+
+AI generated art is strictly forbidden.
+
+Exceptions:
+
+* Images of models used in box-art or promotional material. Provided that the post does not run afoul of Rule #3.
+
+* Art from official rule books, codexes, etc. Provided that you add text with reference to the publication where it was shown and/or credit the artist.",['not allowed']
+156,tolkienfans,"[subreddit]: tolkienfans
+[short_name]: Don’t focus on adaptations
+[description]: There are other spaces on Reddit to discuss movies, games, fanfiction, etc. Some more obscure topics or the occasional mention are not completely off limits if the context points back to the texts. This rule includes AI-generated content.","['referral', 'off-topic']"
+157,mechabare,"[subreddit]: mechabare
+[short_name]: Pair the flairs according to their own content
+[description]: Robogirls: For pics and posts about pure artificial android girls and dolls (NOT including mechanized body/cyborgs)
+
+Cyborg: Characters with prosthetic or mechanized body parts
+
+Cyberpunk: For scenery pics that mainly focuses on cyberpunk theme
+
+Mecha: Characters that are equipped with cyber-suits or mechas.
+
+A.I. Arts: Arts generated by AI.
+
+Meme: Memes related to robot characters.
+
+Mangas, Animes &amp; Novels: Any fictions related to robot characters
+
+Videos/Gifs: Any videos/gifs related to topic",['disclosure']
+158,livealive,"[subreddit]: livealive
+[short_name]: No AI Generated Imagery
+[description]: This one should be obvious man.",['not allowed']
+159,civitai,"[subreddit]: civitai
+[short_name]: Don't hate the players, or the game.
+[description]: AI art is here to stay, and everyone can benifit from it. No condemnation of AI technology, the users of that technology, or people who should be using that technology (AKA, Anti-AI artists) Really just reread rule 2.",['harassment']
+160,xmenmemes,"[subreddit]: xmenmemes
+[short_name]: Must be a meme. Any video game walkthroughs, AI art, general commentary, etc. It all goes.
+[description]: ",['AI as artifact']
+161,AmItheKameena,"[subreddit]: AmItheKameena
+[short_name]: No Shitposts
+[description]: Posts must be truthful and presented as fairly and accurately as possible. Posts must be written entirely by you and from your own point of view. Do not post on behalf of others, or from the point of view of another person in the story.
+
+This is not a humor sub. This isn't a sub for copypastas, satire, overly embellished stories, AI generated content, or creative writing exercises.","['not allowed', 'authenticity', 'off-topic']"
+162,Otters,"[subreddit]: Otters
+[short_name]: No AI / Low Effort
+[description]: *[/r/otters voted overwhelmingly in favour of banning AI posts](https://www.reddit.com/poll/1birvv9?utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=Otters&amp;utm_content=t3_1birvv9)*. Other low effort posts may also get included.","['protection', 'not allowed', 'effort/quality/spam']"
+163,TroyMemes,"[subreddit]: TroyMemes
+[short_name]: All posts must be memes &amp; related to Troy.
+[description]: It can be hard to define what is and isn’t a meme. In an effort to give some guidance I will say that “A meme is a joke wearing another joke as a hat.” So if there’s a question as to whether something is a meme that’s what we’ll use. - AI generated content is not a meme. -
+All posts must be memes. This includes GIFs, some videos and most images","['authenticity', 'not allowed']"
+164,AllyBrooke,"[subreddit]: AllyBrooke
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+165,SeraphineMains,"[subreddit]: SeraphineMains
+[short_name]: No AI Generated ""art""
+[description]: ","['authenticity', 'not allowed']"
+166,AnisRapiHelm,"[subreddit]: AnisRapiHelm
+[short_name]: No AI-Art 
+[description]: None",['not allowed']
+167,milesprower,"[subreddit]: milesprower
+[short_name]: Anti-AI Policy
+[description]: Do not share content created using Artificial Intelligence (AI) programs, software, or websites. Visit the [Rules Wiki](https://www.reddit.com/r/milesprower/wiki/index/) to learn more about why we do not allow AI content in this community.",['not allowed']
+168,ralsei,"[subreddit]: ralsei
+[short_name]: Artificial Intelligence
+[description]: Regarding posts using any form of A.I. ex. Character.ai posts, text generated A.I. content, A.I. imagery. Posts of these sort may ONLY be posted on a Friday, all other days are prohibited to post said content on.",['containment']
+169,isabellagomez,"[subreddit]: isabellagomez
+[short_name]: All material must relate to Isabella Gomez.
+[description]: All material must relate to Isabella Gomez. No memes, artwork, or AI renderings. Stick to content she posts on social media or clips and shots from her movie/TV roles.","['not allowed', 'off-topic']"
+170,Otvgirlsfeet,"[subreddit]: Otvgirlsfeet
+[short_name]: Fakes/Photoshops are not allowed
+[description]: Cropping is fine and adjusting the lighting/brightness to make posts more visible is acceptable
+
+Unless it's censoring potentially sensitive information (like addresses or chat usernames), editing things into or out of pics or videos is not allowed
+
+Blurring faces, as long as it's not of the subject of the post, is also okay - but there's no reason to
+
+When censoring, keep it simple. Don't use emojis. Stick to basic blacking out or blurring
+
+Don't post fakes
+
+A.I. upscales are considered fake","['not allowed', 'authenticity']"
+171,gumball,"[subreddit]: gumball
+[short_name]: No AI Art
+[description]: As somewhat of an extension of Rule 4, any posts that make use of AI image generators are subject to removal.","['not allowed', 'removal']"
+172,MarioPartyJamboree,"[subreddit]: MarioPartyJamboree
+[short_name]: No AI-generated content
+[description]: AI generation tools, such as DALL-E, are trained with a lot of artwork by artists who didn't consent and is low-effort.","['effort/quality/spam', 'education', 'originality', 'not allowed']"
+173,LilianaMumy,"[subreddit]: LilianaMumy
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+174,Lexirivera,"[subreddit]: Lexirivera
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+175,ZhezhiMains,"[subreddit]: ZhezhiMains
+[short_name]: Art Policy 
+[description]: Original, Commissioned, or Attributed Art Only
+
+This community only allows posting of artwork that was:
+1. Created by the person posting it.
+2. Commissioned by the person posting it, with proper credit to the artist.
+3. Shared with permission of the original artist, who must be credited.
+
+Posts featuring AI-generated art, art theft, or uncredited work will be removed. Our goal is to support the artistic community.","['protection', 'removal', 'originality', 'not allowed']"
+176,sleepywrens,"[subreddit]: sleepywrens
+[short_name]: Only post sleepy wrens!
+[description]: Posts must contain a picture or artwork of a sleeping wren. AI generated images are not allowed. ",['not allowed']
+177,nimona,"[subreddit]: nimona
+[short_name]: AI works (including character AI) are banned.
+[description]: AI-generated works and character AI ""conversations"" are banned. Posts containing them will be deleted.","['authenticity', 'removal', 'not allowed']"
+178,FurAI,"[subreddit]: FurAI
+[short_name]: Low Quality NSFW
+[description]: Low quality/unrefined NSFW posts with obvious flaws i.e. messed up or distorted faces, eyes, limbs etc may be removed at moderators' discretion. This is to cut down on raw output porn spam drowning out other posts.
+
+If you're new to AI and would like to share your raw/unrefined outputs here for practice or feedback, please keep them SFW.",['content requirements/restrictions']
+179,haileysonit,"[subreddit]: haileysonit
+[short_name]: Art Source
+[description]: Users who are posting original artwork must use the Original Artwork flair.
+
+For users reposting artwork, please credit the original artist in the title, description, or comments in your post.
+
+Any artwork from the production team must go in the Production Artwork flair. AI-generated artwork is not allowed on this subreddit.","['not allowed', 'originality']"
+180,Starset,"[subreddit]: Starset
+[short_name]: Do not post AI art.
+[description]: AI art is theft. ","['originality', 'not allowed']"
+181,Waterfalls,"[subreddit]: Waterfalls
+[short_name]: No AI images/video
+[description]: ",['not allowed']
+182,cactus,"[subreddit]: cactus
+[short_name]: Don't Spam
+[description]: • Spam bots (including those who submit AI-generated images), will be permanently banned without warning.","['effort/quality/spam', 'ban', 'not allowed']"
+183,KatrinaBowden,"[subreddit]: KatrinaBowden
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+184,MollyGordon,"[subreddit]: MollyGordon
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+185,sillyempire,"[subreddit]: sillyempire
+[short_name]: No AI created imagery
+[description]: We want to support artists. Please refrain from using AI created imagery as meme templates. We won't straight-up ban you for using them, but your post might get removed by our moderators.","['protection', 'discouraged', 'removal', 'discretion']"
+186,imsorryjon,"[subreddit]: imsorryjon
+[short_name]: AI Generated Media is Banned
+[description]: Content generated by AI is banned on this subreddit. This includes everything from text, images, and videos. These types of posts can easily flood the subreddit drowning out legitimate work done by people.","['not allowed', 'authenticity', 'protection']"
+187,DivineMoe,"[subreddit]: DivineMoe
+[short_name]: Only Half AI Generated
+[description]: Must be at least manually edited AI artwork, no pure AI generated artwork",['AI for support']
+188,l5r,"[subreddit]: l5r
+[short_name]: R10. AI Art
+[description]: There is a weekly megathread for AI art. Please contain all posts of AI generated art to these threads.",['containment']
+189,KatieMcGrath,"[subreddit]: KatieMcGrath
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+190,BMWi3,"[subreddit]: BMWi3
+[short_name]: AI Image Posts Restrictions
+[description]: All AI Image posts must be tagged with the proper flair.  They must also not break any other rules.  The primary subject must be an i3 in some form.  Off-topic or other rule-breaking AI Image posts will be removed.","['disclosure', 'content requirements/restrictions', 'removal']"
+191,AcademicMormon,"[subreddit]: AcademicMormon
+[short_name]: Backup claims with academic sources
+[description]: When discussing a particular topic, provide citations from at least one modern academic source. 
+
+The use of AI to compose comments is not allowed and will result in a ban.","['not allowed', 'ban', 'reliability']"
+192,Helluvabossmemes,"[subreddit]: Helluvabossmemes
+[short_name]: No AI
+[description]: Generative AI is not a meme, and cannot be used for a post or in a comment. Additionally, linking to generative AI, such as image generators and chat bots, is prohibited.","['authenticity', 'not allowed']"
+193,Pathfinder2e,"[subreddit]: Pathfinder2e
+[short_name]: Post content of quality
+[description]: Posts should be able to spark dialogue, add interesting perspectives, educate, and otherwise contribute to the 2E experience. 
+Quality EX: homebrew rules, analysis, something you discovered/encountered, memes that teach mechanics, stuff with a story. 
+Low effort EX: the cover of a rulebook, AI generated content, unconstructive complaints such as ""I hate..."" or ""X sucks,"" does not relate to Pathfinder 2E. Memes should be posted on [r/PathfinderMemes](https://www.reddit.com/r/pathfindermemes/)","['effort/quality/spam', 'not allowed']"
+194,NijiForums,"[subreddit]: NijiForums
+[short_name]: Use proper tags when sharing fanart
+[description]: Please provide the source and original artist for all fanart posted.
+
+All NSFW art should be tagged NSFW, while AI art should be tagged as spoiler and include clear indication that it was made with AI. [This rule is subject to change]","['disclosure', 'content requirements/restrictions']"
+195,MariaMenounos,"[subreddit]: MariaMenounos
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+196,CultofYamai,"[subreddit]: CultofYamai
+[short_name]: Tag your posts with the right flair !
+[description]: Flairs Explanation:
+Yamai Sisters/Yuzuru/Kaguya - Posts related to the Anime, Games, LN and all official Stuff
+Yamai Memes - All memes related to the Yamais
+Yamai Fan Art - Every Fanart of the Yamais
+Yamai AI Art - All AI generated images of the Yamais
+Aphrodisiac - All posts in which genitals or nipples are visible (Bikini images for example don't need the aphrodisiac Flair but should still be marked as +18 !)",['disclosure']
+197,ScienceFictionRomance,"[subreddit]: ScienceFictionRomance
+[short_name]: No Low Effort Posts
+[description]: All posts should be of high quality, because a thread's conversation starts with the OP.  Zero effort or low effort posts are not allowed and will be removed at moderator discretion (as we understand effort is subjective). Text posts should have more than two sentences at the very minimum and media should be of high quality in general. AI images are considered very low effort and posts that include them will not be approved without additional high effort, high quality text to compensate.","['effort/quality/spam', 'content requirements/restrictions', 'modify/critique', 'control']"
+198,Lumity,"[subreddit]: Lumity
+[short_name]: Credit the Artist
+[description]: If you post another's fanart here, you *MUST* credit the artist by name in the title *AND* provide a source link to the original artist and/or post. If you post a video containing fanart, please credit the art used. Pinterest, Wattpad, and repost accounts are *NOT* viable sources. 
+
+Fanart (Original) flair is for fanart that you have made yourself.
+
+AI-generated artwork is currently not allowed on this subreddit.
+
+Please view full policy here:
+
+https://www.reddit.com/r/Lumity/wiki/artwork/","['not allowed', 'originality']"
+199,denpamen,"[subreddit]: denpamen
+[short_name]: No Gen AI content
+[description]: This refers to any content generated by an AI.
+
+
+Text, pictures, video, it doesn't matter. If it was generated by an AI then please don't  post it, otherwise it will be removed.","['not allowed', 'removal']"
+200,shadowthehedgehog,"[subreddit]: shadowthehedgehog
+[short_name]: No AI Art or similar.
+[description]: Yes. That's it.
+
+No AI related stuff.
+
+",['not allowed']
+201,poolrooms,"[subreddit]: poolrooms
+[short_name]: No AI art
+[description]: AI generated images are not allowed. Post to r/deepdream or r/dalle2 instead.","['referral', 'not allowed']"
+202,greekfood,"[subreddit]: greekfood
+[short_name]: No AI content
+[description]: No images or text generated by AI is welcomed here.",['not allowed']
+203,lobotomyposting,"[subreddit]: lobotomyposting
+[short_name]: No AI Continuation Memes
+[description]: A still image of a meme made into a video is strictly forbidden ",['not allowed']
+204,MoonPissing,"[subreddit]: MoonPissing
+[short_name]: AI Art Bad
+[description]: No AI art, that's no good!",['not allowed']
+205,annasophiarobb,"[subreddit]: annasophiarobb
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+206,RobloxArt,"[subreddit]: RobloxArt
+[short_name]: No spamming or spam bots.
+[description]: Do not post the same post or comment too often. Do not post links for ""free Robux"" or anything similar to that. Do not post unwanted posts or comments that others may deem as spam.
+
+Spam bots are not welcome on this subreddit. Spam bots are bots that copy others' comments or post AI-generated comments.","['effort/quality/spam', 'not allowed']"
+207,Katherineheigl,"[subreddit]: Katherineheigl
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+208,gravityfalls,"[subreddit]: gravityfalls
+[short_name]: No AI-Generated content
+[description]: At the request of our users, r/Gravityfalls will no longer allow the posting of AI-generated content. This is due to extensive concerns regarding the ethics of AI-generated content and the repeated posting of Character.AI chats.","['not allowed', 'protection', 'effort/quality/spam', 'originality']"
+209,ATLA,"[subreddit]: ATLA
+[short_name]: Fan Art Policy
+[description]: a) When posting fan art that is not your own, put the artists name in the title OR provide a link (either in the comments or the post itself) to the artist's page.
+
+b) Artists submitting their own art should note its OC in the title.
+
+c) AI Art is banned","['not allowed', 'originality']"
+210,MaggotkinofNurgle,"[subreddit]: MaggotkinofNurgle
+[short_name]: Junk
+[description]: No low effort content such as AI art, memes, etc.","['effort/quality/spam', 'not allowed']"
+211,MtvChallengePics,"[subreddit]: MtvChallengePics
+[short_name]: Real Content Only (no fakes)
+[description]: Posts must feature real photos of women from The Challenge. No deepfakes, AI-generated images, or heavily manipulated content. This rule helps maintain authenticity within the subreddit and posts will be removed if found in violation of this rule.","['authenticity', 'removal', 'not allowed']"
+212,startrekadventures,"[subreddit]: startrekadventures
+[short_name]: No AI Imagery
+[description]: AI-generated imagery is no longer allowed on the subreddit.",['not allowed']
+213,Temsbaby,"[subreddit]: Temsbaby
+[short_name]: Do not attempt to pass AI songs off as official
+[description]: All posts of AI songs must use the AI flair and make it explicitly clear the song is AI in the title. Attempting to pass an AI song off as legit will result in a ban.","['not allowed', 'authenticity', 'disclosure']"
+214,SamanthaBoscarino,"[subreddit]: SamanthaBoscarino
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+215,god,"[subreddit]: god
+[short_name]: The post has to have a soul at least in part, chatGPT and other AI posts might be treated as spam.
+[description]: ","['effort/quality/spam', 'discretion']"
+216,HuTao_Mains,"[subreddit]: HuTao_Mains
+[short_name]: Non-OC rule/ AI-Art
+[description]: Please provide the URL to the original post made by the artist in the comments section of your post, and also ensure that the artist allows reposts of their works.  Please do note AI-art is prohibited on this sub.","['not allowed', 'originality']"
+217,Karina_Irby_,"[subreddit]: Karina_Irby_
+[short_name]: Rule 3
+[description]: No fake or AI photo/videos.","['authenticity', 'not allowed']"
+218,Theycallhimcake,"[subreddit]: Theycallhimcake
+[short_name]: R7: Absolutely no AI generated images.
+[description]: None",['not allowed']
+219,Gundam,"[subreddit]: Gundam
+[short_name]: Low Quality and AI Submissions
+[description]: The removal of low quality and, AI submissions, are subject to remove at mod discretion.","['removal', 'discretion', 'effort/quality/spam']"
+220,OuroKronii,"[subreddit]: OuroKronii
+[short_name]: AI Content not allowed
+[description]: Most AI generated content relies on some form of theft or another. Whether it be using other people's art as the base for the image or someone else's voice/image(when they haven't consented to it being used). As such AI Content is not allowed.
+
+Possible exception may be granted if it's ai modified content and it's your own work that's bring modified, in which case message the mods to see if you can get approved","['originality', 'not allowed', 'AI for support', 'control', 'discretion']"
+221,AllaBruletova,"[subreddit]: AllaBruletova
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+222,DogGirls,"[subreddit]: DogGirls
+[short_name]: About AI...
+[description]: - AI generated posts, such as artworks, video or animations, are prohibited.
+
+- You can still discuss about AI or an AI generated creation, if you ever have to.",['not allowed']
+223,CarrieUnderwood,"[subreddit]: CarrieUnderwood
+[short_name]: No fakes and altered images
+[description]: Images must be posted as published except for Quality AI-enhanced images. Cartoonish/amateurish attempts will be removed solely at the mod's discretion.
+
+Posting or asking for leaks or fakes will get you banned .","['authenticity', 'AI for support', 'discretion', 'removal', 'ban', 'effort/quality/spam']"
+224,InfinityNikki,"[subreddit]: InfinityNikki
+[short_name]: Cite Sources
+[description]: When posting artwork, news, or any other content that derives from another source, please make sure to list the source in the comments. Sources should be reliable, unreliable ones will be removed. 
+
+**Notes**
+- Please use the correct ""Artwork"" flair depending on whether the art is OC (original content) or not.
+
+- If the artist stated not to repost, please don't do so.
+
+- AI-Art is banned from the subreddit.",['not allowed']
+225,nonduality,"[subreddit]: nonduality
+[short_name]: No AI generated/related posts
+[description]: Any post blatantly using AI to generate posts, or trying to speak with AI as if it were 'enlightened' will be removed.",['not allowed']
+226,moodeng,"[subreddit]: moodeng
+[short_name]: No AI
+[description]: This should be self evident, but no AI generated pictures/movies etc",['not allowed']
+227,INDYCAR,"[subreddit]: INDYCAR
+[short_name]: Do not post low-effort content
+[description]: Low-effort posts will be removed at the discretion of the mod team. This includes items such as:
+
+* Low quality photos/images/videos
+* Short questions — questions with fixed answers which would not generate discussion
+* Polls of limited scope
+* Rants/""doom"" posts/non-constructive complaints
+* AI-generated content
+* Lack of post context/significance — includes race track designs, fantasy schedules","['effort/quality/spam', 'removal', 'discretion']"
+228,CasualUK,"[subreddit]: CasualUK
+[short_name]: Low Effort
+[description]: We tend to avoid severely overdone topics such as tea posts, pictures of fry ups, debates on crisps and biscuits, yellow label hauls, pictures of sausage rolls. This also covers memes, AI content, variations of""haha only in xPlace"" content, starterpacks, ""you can't park there mate"", pictures of a pile of washing up, your mug or shops having X item available months in advance of Christmas / Easter etc. 
+
+We really want fun, interesting, new, engaging content that sparks discussion.",['not allowed']
+229,palantir,"[subreddit]: palantir
+[short_name]: No Low-Effort Posts
+[description]: When posting a link or image, please include meaningful commentary unless the title clearly provides substantial information. Posting just an image, your positions, or P&amp;L gains/losses without analysis or commentary will be considered low-effort. Additionally, posts with excessive amounts of AI-generated text are also deemed low-effort.","['effort/quality/spam', 'content requirements/restrictions', 'modify/critique']"
+230,ImaginaryCybernetics,"[subreddit]: ImaginaryCybernetics
+[short_name]: Submit credited, sourced paintings and drawings.
+[description]: a. Follow title format: Art Title by Artist Name. Add no other info, except if to tag as OC.
+
+b. Comment with an artist published website link. We want to drive some traffic to the creators!
+
+c. Traditional paintings and drawings only. No videos, screenshots, photography, audio, multi-panel comics, content generated or AI-assisted submissions.
+
+d. Posting your own work? See our best practices for submitting OC: /r/ImaginaryBestOf/wiki/oc
+
+See All: r/ImaginaryBestOf/wiki/rules","['off-topic', 'not allowed']"
+231,IzabelGoulart,"[subreddit]: IzabelGoulart
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+232,ChatGPTIncreasinglyX,"[subreddit]: ChatGPTIncreasinglyX
+[short_name]: Images Must Be AI Generated
+[description]: This sub is specifically for AI generated images",['AI as artifact']
+233,donkeykong,"[subreddit]: donkeykong
+[short_name]: Posts must be purposeful.
+[description]: Posts must have substantial effort put into them. Discussion posts should encourage discourse about the Donkey Kong games. Memes should be in image format and be about Donkey Kong and the DK crew. Posts that simply have the words ""donkey kong""  in them or just show an image of a DK character with no other related content are not considered substantial enough for the subreddit. Artwork must be original and made by a human. AI Art is not considered substantial.","['authenticity', 'originality', 'effort/quality/spam', 'not allowed']"
+234,ChristianSerratos,"[subreddit]: ChristianSerratos
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+235,Lahore,"[subreddit]: Lahore
+[short_name]: No AI-generated posts.
+[description]: Posts that look like they were generated by AI will be deleted, and you will be banned.","['not allowed', 'ban']"
+236,moths,"[subreddit]: moths
+[short_name]: AI
+[description]: All content generated or modified by AI must be identified with the AI-generated flair. AI images do not need a location given because obviously they won't have one.","['disclosure', 'content requirements/restrictions']"
+237,AshesofCreation,"[subreddit]: AshesofCreation
+[short_name]: No spam
+[description]: No AI prompt posts","['effort/quality/spam', 'not allowed']"
+238,storyofseasons,"[subreddit]: storyofseasons
+[short_name]: No AI art is allowed
+[description]: While we appreciate creativity, we kindly ask that you refrain from posting AI-generated art on this subreddit. This rule aims to maintain a focus on discussions, questions, and other content related to the Story of Seasons series.","['not allowed', 'off-topic']"
+239,ReplikaOfficial,"[subreddit]: ReplikaOfficial
+[short_name]: Posting of images
+[description]: We encourage the inclusion of AI-generated images produced by Replika itself. All depicted subjects must visually appear to be 18 years or older and must not give the impression of being underage. Images that are not Replika selfies should be explicitly referenced in the chat dialogue window, which must be included in your post. Submissions that do not adhere to these guidelines will be removed.",['content requirements/restrictions']
+240,CosplaySFW,"[subreddit]: CosplaySFW
+[short_name]: No AI Generated or Overly Photoshopped Cosplays
+[description]: Posts of these type will be removed.",['not allowed']
+241,HertaMains,"[subreddit]: HertaMains
+[short_name]: Artwork posted
+[description]: Provide the URL to the original post made by the artist. AI-generated art is not allowed. All content shared on this subreddit must be created by human artists. Please also respect an artist's reposting preferences.","['authenticity', 'not allowed']"
+242,Eragon,"[subreddit]: Eragon
+[short_name]: AI generated content must be properly labeled
+[description]: Any AI-generated content must include that it is AI-generated in the title, otherwise it will be removed. Be careful also of the spam rule.","['disclosure', 'removal']"
+243,TheCaretaker,"[subreddit]: TheCaretaker
+[short_name]: AI generated posts are not allowed here.
+[description]: (i.e. AI generated Ivan seal paintings, AI generated caretaker tracks, etc..) These types of posts are very low effort, unoriginal, and don't have anything to do with the caretaker. Any AI generated post will be removed, no exceptions.","['off-topic', 'not allowed', 'effort/quality/spam', 'originality', 'removal']"
+244,JessicaSzohr,"[subreddit]: JessicaSzohr
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+245,CMT,"[subreddit]: CMT
+[short_name]: No LLM or AI generated text or promotion of ""AI"" text generation systems (ChatGPT and others)
+[description]: We do not allow medical misinformation. Due to the unreliability of AI-generated information, it is not allowed here","['not allowed', 'reliability']"
+246,furry,"[subreddit]: furry
+[short_name]: Don't Steal!
+[description]: Do not claim other people's work as your own original creation. Do not post any works that were traced or edited from an existing work.  AI generated images are considered theft and will result in a ban.
+
+Artwork made with character bases are fine to submit, but require an artist credit to the base creator.","['originality', 'not allowed', 'ban']"
+247,majonotabitabi,"[subreddit]: majonotabitabi
+[short_name]: Spam and low effort posts will be REMOVED
+[description]: Spam and low effort posts will be REMOVED. Including but not limited to: Memes with low effort editing, AI art, posts with only anime screenshots, light novel images, manga panels or content that has been posted already. If you want to discuss screenshots make a text post. The rule will be enforced at mods discretion.","['effort/quality/spam', 'removal', 'discretion', 'not allowed']"
+248,PRYudiposting,"[subreddit]: PRYudiposting
+[short_name]: AI generated PR related content needs to be tagged.
+[description]: AI Generated content such as fanarts, videos, and other stuff that is related to PR must be tagged as ""AI Generated."" Your post will not be removed immediately if we've seem suspicious, but we will lock your comments until you're proven legit.
+
+If you think that you're post is not AI generated, send us a modmail that we've DMed for you, send us a proof and we will remove your restrictions as soon as possible.
+
+Overall, the goal for this is to give members transparency over this post.","['disclosure', 'control', 'remediation']"
+249,UnusualArt,"[subreddit]: UnusualArt
+[short_name]: No AI Art. 
+[description]: No art may be posted utilizing AI art techniques.",['not allowed']
+250,MultiVersus,"[subreddit]: MultiVersus
+[short_name]: Fan Art Guidelines
+[description]: All Fan Art/Fan Creations must be your own or credited with a link to the original creator.
+
+AI Art is not allowed on this Subreddit.","['not allowed', 'originality']"
+251,VideoGameArt,"[subreddit]: VideoGameArt
+[short_name]: Your Own Art
+[description]: Original content only.
+
+Also, AI art is not allowed in most cases. This sub is a community for developing and sharing art skills. If however, you feel you significantly contributed to this peace artistically (beyond text prompts) you can request the post be approved.","['originality', 'discretion', 'not allowed', 'control']"
+252,PowerScaling,"[subreddit]: PowerScaling
+[short_name]: AI content
+[description]: The use of AI to circumvent the necessity of using your own arguments and reasoning will result in summary post removal and a ban on repeat offenses.
+
+This sub is dedicated to people debating by forming their own arguments so using 3rd party tools to debunk/scale/make argument against, goes against our code of conduct.
+
+“I asked an AI chat bot where another character scales” and other similar shitposts are fine though.
+
+[read all the rules here](https://www.reddit.com/r/PowerScaling/wiki/communi","['originality', 'removal', 'ban', 'not allowed']"
+253,JordanBeckham,"[subreddit]: JordanBeckham
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+254,meowwolf,"[subreddit]: meowwolf
+[short_name]: AI content
+[description]: 1) Most AI content is considered a ""low effort post"" but we are open to having our minds changed. 
+
+2) AI content must be identified as such. 
+
+3) AI content must demonstrate creativity and originality on some higher level beyond just ""this is what AI thinks of meow wolf.""","['discretion', 'disclosure', 'effort/quality/spam', 'modify/critique']"
+255,badredman,"[subreddit]: badredman
+[short_name]: No A.I. generated content of any kind.
+[description]: A.I. generated content in any form is strictly prohibited.",['not allowed']
+256,MightyHarvest,"[subreddit]: MightyHarvest
+[short_name]: No AI posts allowed
+[description]: ",['not allowed']
+257,aiyu,"[subreddit]: aiyu
+[short_name]: Inappropriate Content
+[description]: Any inappropriate posts or comments aimed toward the artist or related persons will be removed. Sexualization of any idol is strictly prohibited. This includes but is not limited to AI generated artworks. 
+
+Users involved in derogatory posts or posts involving underage idols in adjacent subreddits may be banned without warning.",['not allowed']
+258,HellenicMemes,"[subreddit]: HellenicMemes
+[short_name]: AI generated images and text are not a meme. Click for details on using AI.
+[description]: You can use an AI image as an ingredient in a meme, but ""I gave AI a Hellenic prompt"" is not a meme on its own. AI text alone is not a meme, if the post is mostly AI text it's probably not a meme even if you added some visuals.","['authenticity', 'AI for support', 'content requirements/restrictions', 'modify/critique']"
+259,economicsmemes,"[subreddit]: economicsmemes
+[short_name]: AI generated images and text are not a meme. Click for details on using AI.
+[description]: You can use an AI image as an ingredient in a meme, but ""I gave AI an econ prompt"" is not a meme on its own. AI text alone is not a meme, if the post is mostly AI text it's probably not a meme even if you added some visuals.","['authenticity', 'AI for support', 'content requirements/restrictions', 'modify/critique']"
+260,IndieMusicFeedback,"[subreddit]: IndieMusicFeedback
+[short_name]: If your song is AI generated, you must let us know in the title
+[description]: You are welcome to share AI-generated music, but you must clearly state that it is AI-created in the title of your post. While it's okay to post music with AI-generated album artwork without a note, if asked, you must acknowledge that the artwork is AI-generated. Passing off fully AI-generated content as your own will result in a ban.","['disclosure', 'ban', 'originality']"
+261,BlackHairedWaifus,"[subreddit]: BlackHairedWaifus
+[short_name]: No AI-generated 
+[description]: No AI Art",['not allowed']
+262,ProgressionFantasy,"[subreddit]: ProgressionFantasy
+[short_name]: Art Attribution
+[description]: Authors using art as a part of their promotion, AI or human-made, must clearly attribute their artist in the post. AI art is only allowed if it is trained from ethical sources. See additional rules details.","['originality', 'content requirements/restrictions']"
+263,SuleMio,"[subreddit]: SuleMio
+[short_name]: No AI generated images
+[description]: Images generated using artificial intelligence are not allowed.",['not allowed']
+264,KaylaWiggins,"[subreddit]: KaylaWiggins
+[short_name]: No fakes or overly shopped photos, images must be posted as published.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced.""   No watermarks. No emojis. No text on images.","['authenticity', 'AI for support', 'disclosure', 'ban', 'some allowed', 'effort/quality/spam']"
+265,CryptoTechnology,"[subreddit]: CryptoTechnology
+[short_name]: R7: Content Theft
+[description]: No plagiarism or undisclosed AI content.","['disclosure', 'originality']"
+266,basset,"[subreddit]: basset
+[short_name]: No spam
+[description]: • No spam allowed. This includes posting the same thing in multiple subreddits.
+
+• If a post is submitted multiple times, the duplicates will be counted as spam and removed.
+
+• No content or karma farming is included under spam. Post submissions with no previous history or karma will now be removed without warning, and the user will be perma-banned.
+
+• No AI generated images. ","['effort/quality/spam', 'not allowed']"
+267,katharine_mcphee,"[subreddit]: katharine_mcphee
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+268,NerissaRavencroft,"[subreddit]: NerissaRavencroft
+[short_name]: No AI Content 
+[description]: Most AI generated content relies on some form of theft or another. Whether it be using other people's art as the base for the image or someone else's voice/image(when they haven't consented to it being used). As such AI Content is not allowed.
+
+Possible exception may be granted if it's ai modified content and it's your own work that's bring modified, in which case message the mods to see if you can get approved","['originality', 'authenticity', 'not allowed', 'discretion', 'control', 'AI for support']"
+269,ShaileneWoodley,"[subreddit]: ShaileneWoodley
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - serious offenses will be subject to a ban.
+
+Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced.""
+
+Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better!
+
+No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+270,interactivefiction,"[subreddit]: interactivefiction
+[short_name]: AI-generated content and discussion belongs in other subreddits
+[description]: There are several subreddits dedicated to AI-enhanced interactive fiction. One suggestion is r/ChatGPTGaming.
+
+This subreddit is meant for discussions about interactive fiction made without the use of AI tools.","['referral', 'not allowed', 'off-topic']"
+271,ImaginaryMindscapes,"[subreddit]: ImaginaryMindscapes
+[short_name]: Submit credited, sourced paintings and drawings.
+[description]: a. Follow title format: Art Title by Artist Name. Add no other info, except if to tag as OC.
+
+b. Comment with an artist published website link. We want to drive some traffic to the creators!
+
+c. Traditional paintings and drawings only. No videos, screenshots, photography, audio, multi-panel comics, content generated or AI-assisted submissions.
+
+d. Posting your own work? See our best practices for submitting OC: /r/ImaginaryBestOf/wiki/oc
+
+See All: r/ImaginaryBestOf/wiki/rules","['off-topic', 'not allowed']"
+272,drones,"[subreddit]: drones
+[short_name]: No generative AI media.
+[description]: So-called “AI” tools are evil. Posting anything created by these automated plagiarism machines, or promoting their use, may result in a ban. ","['originality', 'ban', 'not allowed']"
+273,Planetside,"[subreddit]: Planetside
+[short_name]: Follow our content guidelines
+[description]: Make sure your post follows our content guidelines. See the [full rules](https://www.reddit.com/r/Planetside/wiki/postingrules) for the full list of what is appropriate to post
+
+Temporarily banned content:
+
+* Old mod team and the subreddit shutdown
+
+Permanently banned content:
+
+* Map Pictures, pictures of the population graph and pictures of whoever locked the last four continents. Exceptions may be made if the poster provides quality analysis
+
+* All AI generated content EXCEPT translations",['some allowed']
+274,outerwilds,"[subreddit]: outerwilds
+[short_name]: No AI-generated Content. 
+[description]: Images, videos, songs or anything else created by AI generators are not allowed to be posted in this sub.",['not allowed']
+275,Apologetics,"[subreddit]: Apologetics
+[short_name]: Rule 3a: Boo Bots (AI Generated post/comment)
+[description]: The use of AI to facilitate arguments is not consistent with the goal of this sub. Iron sharpens Iron implies humans building each other up. To assess this https://www.scribbr.com/ai-detector/ and other AI detection tools will be employed when a post/comment is suspected of lacking the human touch.","['authenticity', 'control', 'not allowed']"
+276,numetal,"[subreddit]: numetal
+[short_name]: Rule 2: Images &amp; Videos / Memes / Low Effort / AI
+[description]: Don't spam r/numetal with images and video links without discussion. You should be able to add your 2 cents to the post and not try and karma mine. Memes are permitted within good taste and must be nu-metal themed. Low effort titles or vague posts will be removed as well. Posting someone else's original content as if it is your own is not allowed and will lead to a permanent ban. Content generated by AI needs to be labeled as such.",['disclosure']
+277,Sims4,"[subreddit]: Sims4
+[short_name]: Post Relevancy
+[description]: All posts must be related to The Sims 4 and **only** The Sims 4.  Posts about the Sims franchise in general, other games, politics, the culture war, IRL memes, asking for pc or hardware recommendations, tech advice, the EA app, Steam, console platforms, EA play, third-party sites, mod sites, life outside the game, personal belongings, AI art or renders and all other irrelevant posts will be removed.","['off-topic', 'not allowed', 'removal']"
+278,ShrineOfMiku,"[subreddit]: ShrineOfMiku
+[short_name]: Tag your posts with the right flair !
+[description]: Flairs Explanation:
+Miku - Posts related to the Anime, Games, LN and all official Stuff
+Mikumemes - All memes related to Miku
+Miku Fan Art - Every Fanart of Miku
+Miku AI Art - All AI generated images of Miku
+Aphrodisiac - All posts in which genitals or nipples are visible (Bikini images for example don't need the aphrodisiac Flair but should still be marked as +18 !)",['disclosure']
+279,XiaoMains,"[subreddit]: XiaoMains
+[short_name]: No AI art or text posts.
+[description]: ",['not allowed']
+280,oneshot,"[subreddit]: oneshot
+[short_name]: Do not post AI-generated content.
+[description]: Please do not post AI generated content of any kind. We prefer to have human-generated and/or human-made content on the subreddit.","['authenticity', 'not allowed']"
+281,SFWWaifu,"[subreddit]: SFWWaifu
+[short_name]: No AI Generated / Altered Images
+[description]: ",['not allowed']
+282,conceptart,"[subreddit]: conceptart
+[short_name]: No AI Artwork
+[description]: This is AI Generated Artwork which is not permitted on this subreddit.",['not allowed']
+283,EvaLongoria,"[subreddit]: EvaLongoria
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+284,officialcelebhub,"[subreddit]: officialcelebhub
+[short_name]: No AI generated content
+[description]: Do not post any AI generated images or videos to this subreddit. Instant ban will be handed out if found.","['not allowed', 'ban']"
+285,AnnaFaris,"[subreddit]: AnnaFaris
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+286,LexusNX,"[subreddit]: LexusNX
+[short_name]: Declare all AI content as such
+[description]: We all enjoy a little AI as a treat but attempting to pass blatant AI content as real or spreading AI spam - straight to jail.","['authenticity', 'disclosure', 'effort/quality/spam', 'ban']"
+287,starcitizen,"[subreddit]: starcitizen
+[short_name]: No AI generated content
+[description]: AI generated images or Chatgpt text content will be removed as “low effort” content. Please do not post AI generated content on this subreddit.","['not allowed', 'removal', 'effort/quality/spam']"
+288,MonkeyIsland,"[subreddit]: MonkeyIsland
+[short_name]: Be Relevant (No Monkeys, Non-MI Games, or AI Content)
+[description]: All content must be directly relevant to the Monkey Island computer game franchise. This is not a subreddit for sharing content about monkeys, sharing a non-Monkey Island adventure game available to buy, or sharing any AI generated content (visit /r/MonkeyAIsland).","['off-topic', 'referral', 'not allowed']"
+289,Arnhem,"[subreddit]: Arnhem
+[short_name]: No Reposts or Low Effort Submissions
+[description]: Please refrain from sharing low-quality or repetitive content, including poorly titled posts, AI-generated content, and content lacking sufficient details for opinions or advice requests.","['effort/quality/spam', 'not allowed']"
+290,RoundAnimals,"[subreddit]: RoundAnimals
+[short_name]: Real Animals Only
+[description]: Please only post images of real-life animals. No use of Photoshop or AI image generation","['authenticity', 'not allowed']"
+291,Hairycelebsreborn2,"[subreddit]: Hairycelebsreborn2
+[short_name]: No cartoons or artwork. This includes A.I. artwork which can sometimes look very realistic.
+[description]: ","['authenticity', 'not allowed']"
+292,CatgirlSFW,"[subreddit]: CatgirlSFW
+[short_name]: No AI generated artwork
+[description]: None",['not allowed']
+293,IndianArtAI,"[subreddit]: IndianArtAI
+[short_name]: State the AI software and prompt you used if you can
+[description]: Always try to share the AI tool you used. If you're open to it, help everyone learn your skills by sharing how you created the image with the prompt as well. This is a ""softer"" rule relative to the rest.","['disclosure', 'education']"
+294,Workspaces,"[subreddit]: Workspaces
+[short_name]: AI-generated images
+[description]: * Images that have been generated by AI are not allowed. Posts using AI images will be removed.","['not allowed', 'removal']"
+295,CanSkincare,"[subreddit]: CanSkincare
+[short_name]: POST ONLY YOURSELF / NO CATFISHING
+[description]: &gt; 1. Post only your own photos.
+
+&gt; 2. You should be the only one in your photo that is not blurred/colored over.
+
+&gt; 3. Stock photos or photos of models do not violate this rule.
+
+&gt; 4. No AI photos.
+
+&gt; 5. If the mods believe that your profile is suspicious, you may be asked to verify. **[Verification-wiki](https://www.reddit.com/r/OUTFITS/wiki/verification/)**
+
+&gt; 6. Do not edit user's photos without prior written consent.","['not allowed', 'authenticity']"
+296,hauntingground,"[subreddit]: hauntingground
+[short_name]: no AI
+[description]: as the title says, no AI art in this subreddit. you will receive a warning, and then a ban if violated a second time.","['not allowed', 'ban', 'warning']"
+297,RaeRockholdSFW,"[subreddit]: RaeRockholdSFW
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+298,patientgamers,"[subreddit]: patientgamers
+[short_name]: Posts must promote discussion.
+[description]: * Posters should be engaged and active in the comment section of their posts.
+
+* Posts should have sufficient context. Pointless lists or low effort posts (IE: less than ~150 words) will be removed.
+
+* Posting AI generated content will result in a permanent ban.
+
+* Negative reviews are allowed but must offer constructive criticism or explain why you kept playing a game you didn't enjoy.","['not allowed', 'ban']"
+299,SnootGame,"[subreddit]: SnootGame
+[short_name]: No AI Art
+[description]: AI Art is not allowed on this subreddit ever.
+",['not allowed']
+300,sabaton,"[subreddit]: sabaton
+[short_name]: No spam or low effort posts
+[description]: this includes AI posts and Tier List posts.","['effort/quality/spam', 'not allowed']"
+301,AssassinsCreedOdyssey,"[subreddit]: AssassinsCreedOdyssey
+[short_name]: Original content and self-promotion policy
+[description]: Sharing OC is strongly encouraged, and with OC often comes self-promotion. We ask that you take care to participate in the community beyond self-promotion. AI-generated content is not permitted.
+&amp;nbsp;
+
+Users who actively engage themselves in the subreddit and make the occasional self-promotional post will be approved.  
+
+However, treating our subreddit solely as a platform for advertisement is not allowed – posts such as “join my community"", ""watch me on Twitch/YouTube/etc” will be removed.","['not allowed', 'originality']"
+302,alilarter,"[subreddit]: alilarter
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+303,AbbeyClancy,"[subreddit]: AbbeyClancy
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+304,souleater,"[subreddit]: souleater
+[short_name]: Credit art that isn't yours.
+[description]: If your posting something that isn't yours, providing credit for it is required. If you do not provide credit or claim its yours when it isn't, action will be taken. This includes AI art. AI art is not permitted because we cannot moderate credit given to the training of the AI.","['originality', 'not allowed']"
+305,JodieSweetin,"[subreddit]: JodieSweetin
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+306,sunflowers,"[subreddit]: sunflowers
+[short_name]: Original Content Only - Photos taken from Google and AI art will be removed to reduce spam
+[description]: None","['not allowed', 'removal', 'effort/quality/spam', 'originality']"
+307,YearOfShakespeare,"[subreddit]: YearOfShakespeare
+[short_name]: No AI content
+[description]: AI is a new and emerging technology that is unfortunately ripe for misuse. For the time being, no AI generated images or text will be allowed.","['not allowed', 'protection', 'education']"
+308,vikingmemes,"[subreddit]: vikingmemes
+[short_name]: AI generated images and text are not a meme. Click for details on using AI.
+[description]: You can use an AI image as an ingredient in a meme, but ""I gave AI a viking prompt"" is not a meme on its own. AI text alone is not a meme, if the post is mostly AI text it's probably not a meme even if you added some visuals.","['authenticity', 'AI for support', 'modify/critique', 'content requirements/restrictions']"
+309,ShiningForce,"[subreddit]: ShiningForce
+[short_name]: No AI Art
+[description]: Any type of art generated by artificial intelligence is prohibited.",['not allowed']
+310,LenaLandrut,"[subreddit]: LenaLandrut
+[short_name]: Quality of the post
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+311,TheAmazingDigitalCirc,"[subreddit]: TheAmazingDigitalCirc
+[short_name]: No AI Art
+[description]: ",['not allowed']
+312,WutheringWaves,"[subreddit]: WutheringWaves
+[short_name]: Fanworks
+[description]: Submitted fanworks (artworks, cosplays, etc.) must abide by the following rules:
+
+* The Original Creator must be credited with their name in the title, alongside a primary source (e.g., Twitter, Instagram) in the comments. 
+Aggregate art websites (e.g., Pinterest) are not allowed.
+* Use applicable flairs. For fanart created by others, use the ""Fanart (Non-OC)"" flair.
+* Ensure the fanwork aligns with our NSFW rules.
+* Is not AI Generated.
+* Each submitter may post fanwork once every 5 days.",['not allowed']
+313,ImaginaryOrcs,"[subreddit]: ImaginaryOrcs
+[short_name]: Submit credited, sourced paintings and drawings.
+[description]: a. Follow title format: Art Title by Artist Name. Add no other info, except if to tag as OC.
+
+b. Comment with an artist published website link. We want to drive some traffic to the creators!
+
+c. Traditional paintings and drawings only. No videos, screenshots, photography, audio, multi-panel comics, content generated or AI-assisted submissions.
+
+d. Posting your own work? See our best practices for submitting OC: /r/ImaginaryBestOf/wiki/oc
+
+See All: r/ImaginaryBestOf/wiki/rules","['off-topic', 'not allowed']"
+314,MonikaPietrasinska,"[subreddit]: MonikaPietrasinska
+[short_name]: No fakes or overly shopped photos, images must be posted as published. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+315,EmmaFrost,"[subreddit]: EmmaFrost
+[short_name]: No A.I. Artwork
+[description]: Per community and moderator consensus, A.I. artwork is not permitted in this subreddit. This includes works produced with tools such as DALL-E, Midjourney, StarryAI, Dream, and others.","['protection', 'not allowed']"
+316,Tacoma,"[subreddit]: Tacoma
+[short_name]: Restricted External Content/Links/Duplicate
+[description]: All content must be accessible by typical browsers. r/Tacoma does not allow the outside content or links listed below:
+
+- No subreddit crossposting 
+
+- No duplicate articles/posts
+
+- No AI
+
+- No memes or Shitposts
+
+- No Posts/Comments linking to a pay wall.
+
+- No links to other social media content
+
+- No direct links to crowdfunding (Venmo, GoFundMe, Kickstarter, etc.)
+
+- No links to Discord or like apps.
+
+- No Posting photos or videos of others",['not allowed']
+317,cookingforbeginners,"[subreddit]: cookingforbeginners
+[short_name]: No AI
+[description]: AI tools are not suitable for beginners. AI results are not reliable, results should be fact-checked and this requires experience that a beginner does not have.","['education', 'not allowed', 'reliability']"
+318,Nerualium,"[subreddit]: Nerualium
+[short_name]: The AI image is resolved
+[description]: You shouldn't use specific flags or tags but keep it source in comment.","['originality', 'disclosure']"
+319,anchorage,"[subreddit]: anchorage
+[short_name]: No AI Generated Content
+[description]: Any content suspected of being generated by an AI program may be removed at the moderator's discretion. Spamming the subreddit with AI generated content may result in removal from the subreddit.","['discretion', 'not allowed', 'removal', 'effort/quality/spam', 'ban']"
+320,LeadGeneration,"[subreddit]: LeadGeneration
+[short_name]:  No AI Generated Content
+[description]: R/LeadGeneration is for real users discussing their own thoughts. Posts and comments that are suspected of being AI generated content are subject to removal.","['authenticity', 'removal', 'not allowed']"
+321,StableDiffusion,"[subreddit]: StableDiffusion
+[short_name]: All posts must be Open-source/Local AI image generation related
+[description]: All tools for post content must be open-source or local AI generation. Comparisons with other platforms are welcome. Post-processing tools like Photoshop (excluding Firefly-generated images) are allowed, provided the don't drastically alter the original generation.","['AI as artifact', 'some allowed']"
+322,femalelivingspace,"[subreddit]: femalelivingspace
+[short_name]: No AI images allowed.
+[description]: No AI images allowed. This sub is for real life people who live in real life spaces-- not for inspo, generated or otherwise.","['authenticity', 'not allowed']"
+323,RomanceBooks,"[subreddit]: RomanceBooks
+[short_name]: No Piracy, AI, or PPC content
+[description]: Do not reference how to access or request creative work that has not been authorized by the rights holder, including but not limited to YouTube videos of audiobooks/movies, PDFs of books,  etc.
+
+Any external link to original content must either be on the creator’s own site or properly attributed.
+
+AI-created content is prohibited as it promotes pirated content. Published AI book covers are allowed. 
+
+Pay-Per-Chapter content is prohibited.
+
+Fair use of copyrighted material is allowed.","['originality', 'some allowed']"
+324,Boruto,"[subreddit]: Boruto
+[short_name]: Source your fanart
+[description]: Fanart submissions should include the artist's name and a link to the source. Any post that doesn't have a source will be removed.
+
+If your post is AI art you must specify that in the title and also link to the original artist.
+
+The following websites are not valid sources: WeHeartIt, Pinterest, Zerochan, DailyAnimeArt, AlphaCoders. They are aggregate sites which only have reposted fanart.","['originality', 'disclosure']"
+325,MusicVideos,"[subreddit]: MusicVideos
+[short_name]: No AI generated content
+[description]: Obviously AI generated videos are not allowed.",['not allowed']
+326,Stargate,"[subreddit]: Stargate
+[short_name]: No Low Effort Content
+[description]: Please do not post low effort content. This includes recent reposts and AI art.","['effort/quality/spam', 'not allowed']"
+327,Katemara,"[subreddit]: Katemara
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images. No fan art.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+328,SillyPalsClub,"[subreddit]: SillyPalsClub
+[short_name]: No AI art
+[description]: AI art steals from real artists and we do not support it here. If you post something with AI art and are unable to tell it's AI we may let it stay, however always check your sources and evaluate the art before posting","['originality', 'discretion', 'education', 'protection', 'not allowed']"
+329,TheNaturallyUnknown,"[subreddit]: TheNaturallyUnknown
+[short_name]: AI 
+[description]: We are a subreddit dedicated to art and human made creative content, that said we do support the use of AI purely for informative and text based content. 
+
+AI art will be allowed but only with the relevant flair and will not be eligible for post rewards.
+
+Straight up AI generated text will also receive the same flair, we ask that a bit of effort is put into the post. ","['disclosure', 'modify/critique', 'content requirements/restrictions', 'AI for support']"
+330,boatsnbeaches,"[subreddit]: boatsnbeaches
+[short_name]: AI
+[description]: No AI or deep fakes. The latter gets you a ban and a report to Reddit","['authenticity', 'ban', 'report', 'not allowed']"
+331,StarWarsArmada,"[subreddit]: StarWarsArmada
+[short_name]: All content must be relevant to the Star Wars Armada Miniatures Game.
+[description]: AI and the use of AI are unwelcome in our subreddit.","['not allowed', 'off-topic']"
+332,YunliMainsHSR,"[subreddit]: YunliMainsHSR
+[short_name]: Follow Art Guidelines!
+[description]: ⚘ As it always is anywhere else, posting art without the sauce is always a no-no!
+
+⚘ AI art is not allowed here and will be removed after being reviewed.
+
+⚘ NSFW art is not allowed! Especially of Yunli. As with suggestive art of her.","['discretion', 'not allowed', 'removal']"
+333,space,"[subreddit]: space
+[short_name]: Images are only allowed on Sunday UTC
+[description]: Images, gifs, and gif-like videos (those under 2 minutes and which don't rely on sound) are permitted only on Sundays UTC.
+
+Please no DALL·E mini or other AI generated images.",['not allowed']
+334,ironmouse,"[subreddit]: ironmouse
+[short_name]: No AI Artwork
+[description]: No AI artwork is allowed to be posted here (images and video).
+
+Please support artists and ensure art posted was not made with any AI tools.","['protection', 'not allowed']"
+335,PiltoversFinest,"[subreddit]: PiltoversFinest
+[short_name]: No AI Content
+[description]: Please do not submit or repost art, writing, or other works that have been created with the use of AI. At this time, we would prefer not to feature AI-generated content on this sub.",['not allowed']
+336,sillyboyclub,"[subreddit]: sillyboyclub
+[short_name]: No AI art
+[description]: We do not allow AI art as it steals from real artists. We support real artists and want you using real art instead","['originality', 'protection', 'authenticity', 'not allowed']"
+337,Susi_Vidal,"[subreddit]: Susi_Vidal
+[short_name]: No fakes or overly shopped posts; images must be posted as published images; no memes.
+[description]: No fakes or overly shopped posts - may result in a ban. Images must be posted as published except for quality AI-enhanced images. No x-rays or bubbling. No watermarks. No emojis. No weird borders, i.e. white or black bars. No text on images.
+
+Only exception is if the ""add-ons"" are from the source.","['ban', 'authenticity', 'AI for support', 'some allowed', 'effort/quality/spam']"
+338,splatoon,"[subreddit]: splatoon
+[short_name]: Properly source fan art
+[description]: Artists deserve their credit - some of them actually depend on it financially.  If you did not make the art and want to post it, you must make a link post.  Consistently breaking this rule could result in a ban from the subreddit.  Posting pay-walled content is never allowed on this subreddit.
+For more specifics on “Sourcing fan-art”, please check the [wiki](https://www.reddit.com/r/splatoon/wiki/index/sourcing_fan-art) or contact us in Modmail.
+
+Under no circumstances is any AI content allowed.","['originality', 'not allowed', 'protection', 'ban']"
+339,HenryFinanceEurope,"[subreddit]: HenryFinanceEurope
+[short_name]: No AI-Generated Content
+[description]: Please ensure all posts and comments are created by humans, not AI tools. AI-generated content is not permitted here to keep our discussions authentic and genuinely human. Detected AI-generated posts will be removed.","['authenticity', 'not allowed', 'removal']"
+340,Ultraman,"[subreddit]: Ultraman
+[short_name]: Low-Effort Content/ Repetitevness
+[description]: Please try your best to make posts that will spark discussion! Also create descriptive post titles.
+
+Memes that rely entirely on comments such as ""caption this"" or ""wrong answers only"" posts will be removed. This is to discourage lazy titles and/or posts.
+
+Tierlists are not allowed on this subreddit.
+
+Posting AI generated art is also not allowed on this subreddit.","['not allowed', 'effort/quality/spam']"
+341,TaraReid,"[subreddit]: TaraReid
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+342,ImaginarySliceOfLife,"[subreddit]: ImaginarySliceOfLife
+[short_name]: Submit credited, sourced paintings and drawings.
+[description]: a. Follow title format: Art Title by Artist Name. Add no other info, except if to tag as OC.
+
+b. Comment with an artist published website link. We want to drive some traffic to the creators!
+
+c. Traditional paintings and drawings only. No videos, screenshots, photography, audio, multi-panel comics, content generated or AI-assisted submissions.
+
+d. Posting your own work? See our best practices for submitting OC: /r/ImaginaryBestOf/wiki/oc
+
+See All: r/ImaginaryBestOf/wiki/rules","['off-topic', 'not allowed']"
+343,powerrangers,"[subreddit]: powerrangers
+[short_name]: Beware the Mutiny (piracy)
+[description]: Do not post links to pirated content. Do not discuss piracy here. AI art is art theft.","['not allowed', 'originality']"
+344,ImaginaryMechs,"[subreddit]: ImaginaryMechs
+[short_name]: Submit credited, sourced paintings and drawings.
+[description]: a. Follow title format: Art Title by Artist Name. Add no other info, except if to tag as OC.
+
+b. Comment with an artist published website link. We want to drive some traffic to the creators!
+
+c. Traditional paintings and drawings only. No videos, screenshots, photography, audio, multi-panel comics, content generated or AI-assisted submissions.
+
+d. Posting your own work? See our best practices for submitting OC: /r/ImaginaryBestOf/wiki/oc
+
+See All: r/ImaginaryBestOf/wiki/rules","['off-topic', 'not allowed']"
+345,EvelynnMains,"[subreddit]: EvelynnMains
+[short_name]: No AI Art
+[description]: Most of our users do not want to see AI generated art, nor do we want to open ourselves up to legal issues if AI art is ruled as breaking copyright laws at some point in the future. Please do not post AI generated art UNLESS it is used in the context of ""I used AI to come up an idea, then drew it myself"".
+
+No other context or use of AI generated art will be allowed. No exceptions.","['protection', 'AI for support']"
+346,WriothesleyMains,"[subreddit]: WriothesleyMains
+[short_name]: Non-OC Art Rules
+[description]: Non-OC artwork post should credit the artist in the title and should link the original source in the comments. Do not repost an artwork if its artist does not allow repost.
+
+A build card or comment containing a non-OC artwork should credit the artist and link the original source in the comments or alongside it.
+
+Original source should link to the artist's own post of the artwork and not from image aggregating sites such as Pinterest, Zerochan, Danbooru, etc.
+
+AI-generated images are not allowed.","['originality', 'not allowed']"
+347,beeandpuppycat,"[subreddit]: beeandpuppycat
+[short_name]: No AI Art Submissions of any kind
+[description]: The community was asked to vote on this and overwhelming decided against AI posts. They will be removed and users will be given a warning and possible ban if they continue to post AI art. ","['protection', 'removal', 'warning', 'ban', 'not allowed']"
+348,VeraFarmiga,"[subreddit]: VeraFarmiga
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+349,LegalAdviceUK,"[subreddit]: LegalAdviceUK
+[short_name]: Do not post chatbot-generated content on the sub
+[description]: Chatbots are not search engines and their function is not to perform research or give advice.  Using them for this purpose can result in statements about the law which may seem to make sense, but are in fact wildly incorrect.  A number of high-profile cases where chatbots were used to draft legal documents have illustrated this.  As a result, AI-generated content is banned on this sub.  Content suspected of having been generated by an AI will be removed and posters may be banned without warning.","['reliability', 'education', 'not allowed', 'removal', 'ban']"
+350,RWBYOC,"[subreddit]: RWBYOC
+[short_name]: Absolutely no posting content that isn't yours.
+[description]: Absolutely no posting content that isn't yours.  Posting on the creator's behalf is acceptable, posting without their notice or consent is not. 
+
+AI-generated content is not considered to be your content.","['originality', 'not allowed']"
+351,naturejournaling,"[subreddit]: naturejournaling
+[short_name]: No AI art here 
+[description]: This has its own Reddit community, let’s keep it classic and handmade📝🖌️📚🌿","['off-topic', 'not allowed']"
+352,TatianaMaslany,"[subreddit]: TatianaMaslany
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+353,pekomama,"[subreddit]: pekomama
+[short_name]: No AI Content
+[description]: ",['not allowed']
+354,LycorisRecoil,"[subreddit]: LycorisRecoil
+[short_name]: When posting artwork, include a link to the source
+[description]: * If you post **any** artwork, you must provide a link to the original source or it will be removed.
+* You **must** use the artist's official sites (Twitter, Pixiv, DeviantArt).
+  * **You must post this in the comments.**
+* **If you are the artist yourself** say so!
+* AI art should also be credited to where you found it.
+ * If you generated it, say so!
+
+Repeat violators will be banned or have access removed.","['originality', 'disclosure', 'ban']"
+355,fifacardcreators,"[subreddit]: fifacardcreators
+[short_name]: Use of AI is not allowed
+[description]: Do not use AI make cards or edits. It should all be your own work. 
+
+(Unless it’s SUBTLE image enhancing)","['AI for support', 'authenticity', 'some allowed']"
+356,QuantumComputing,"[subreddit]: QuantumComputing
+[short_name]: No AI-generated content
+[description]: This subreddit is for academic discussion, posts that are primarily or entirely the output of an LLM without significant human discussion are not allowed. This includes comments; responses that are clearly generated by an LLM will be removed. ","['authenticity', 'not allowed']"
+357,ImaginaryWitches,"[subreddit]: ImaginaryWitches
+[short_name]: Submit credited, sourced paintings and drawings.
+[description]: a. Follow title format: Art Title by Artist Name. Add no other info, except if to tag as OC.
+
+b. Comment with an artist published website link. We want to drive some traffic to the creators!
+
+c. Traditional paintings and drawings only. No videos, screenshots, photography, audio, multi-panel comics, content generated or AI-assisted submissions.
+
+d. Posting your own work? See our best practices for submitting OC: /r/ImaginaryBestOf/wiki/oc
+
+See All: r/ImaginaryBestOf/wiki/rules","['off-topic', 'not allowed']"
+358,Elvis,"[subreddit]: Elvis
+[short_name]: No low effort posts/spam/AI-generated content
+[description]: Low effort submissions that inspire very little discussion or are made in bad taste will be removed. Something just having Elvis' name on it, an Elvis reference contained within it, or having an image of Elvis does not necessarily make it a quality post. Redundant threads or reposts of recently shared material, questions, subjects, etc. may be removed. AI-generated Content featuring Elvis' image or voice will be considered low effort and removed.","['effort/quality/spam', 'removal', 'not allowed', 'authenticity']"
+359,KindleUnlimited,"[subreddit]: KindleUnlimited
+[short_name]: No AI Content
+[description]: AI content is not permitted on r/KindleUnlimited",['not allowed']
+360,Y2K,"[subreddit]: Y2K
+[short_name]: Avoid Low-Effort Posts
+[description]: This includes (but not limited to):
+- Reposts
+- METAposting
+- Too low resolution or pixelation
+- AI generations","['not allowed', 'effort/quality/spam']"
+361,HaloWars2,"[subreddit]: HaloWars2
+[short_name]: No AI-generated content
+[description]: AI generated images or Chatgpt text content will be removed as “low effort” content. Please do not post AI generated content on this subreddit.","['effort/quality/spam', 'not allowed', 'removal']"
+362,meggyxmario,"[subreddit]: meggyxmario
+[short_name]: Flair Posts Correctly
+[description]: * “Self-Introduction” for introducing yourself
+* “AI Creation” for AI posts
+* “Found Content” for posting others’ art or content
+* “Comic” for OC comic posts
+* “Gmod/SFM Fanart” for gmod &amp; sfm posts
+* “Other/Meta” for posts about the MxM community itself
+* “Discussion” for talking about the ship
+* “Episode Review” for sharing your thoughts on an SMG4 episode
+
+…etc.",['disclosure']
+363,dubai,"[subreddit]: dubai
+[short_name]: Make an effort or Use the Daily Thread
+[description]: Low-content/low-effort posts are subject to mod discretion. This includes but is not limited to memes, videos, social media links, and AI generated content. Simple questions that don’t generate discussion or could be answered by googling or calling a business may be redirected to the daily random discussion post.","['effort/quality/spam', 'discretion']"
+364,juliannemoore,"[subreddit]: juliannemoore
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+365,budgetcooking,"[subreddit]: budgetcooking
+[short_name]: No spam, promotions, surveys, fundraising/solicitations or off-topic posts
+[description]: We're here to share and find amazing budget friendly recipes, not to be bombarded with advertisements and spam. (Please note that AI-generated recipes are considered to be spam.)","['effort/quality/spam', 'not allowed']"
+366,AnimationCrit,"[subreddit]: AnimationCrit
+[short_name]: Animation created with AI is not allowed.
+[description]: While we don't condone the use of AI in animation, this specific subreddit is mainly for people who want to improve their skills in creating animation from scratch.
+
+AI mainly uses existing animation and prompts to create something based on the data available. If you want to improve your skills within AI animation, we recommend visiting an AI community or learning software such as Cascadeur.","['education', 'off-topic', 'referral', 'not allowed']"
+367,wildart,"[subreddit]: wildart
+[short_name]: This isn't the right space for AI or generated art
+[description]: Art shared here should not be created by AI or generators, completely or in part.",['not allowed']
+368,Tartaria,"[subreddit]: Tartaria
+[short_name]: No AI 
+[description]: If your post is flagged as AI, it will be deleted.  This includes AI generated images.","['removal', 'not allowed']"
+369,s10,"[subreddit]: s10
+[short_name]: No AI SPAM
+[description]: Do not spam the subreddit with AI spam, some AI generated content is fine and all. But we wont allow bots to run around rampant. Such as an AI bot commenting BS on posts.","['effort/quality/spam', 'some allowed']"
+370,ImaginaryPolice,"[subreddit]: ImaginaryPolice
+[short_name]: No AI-generated art.
+[description]: ",['not allowed']
+371,CleaningTips,"[subreddit]: CleaningTips
+[short_name]: No AI-generated content is permitted
+[description]: In order to cultivate an authentic environment where people share real life advice and experiences, GPT or AI-generated text in comments and posts is prohibited.","['authenticity', 'not allowed']"
+372,Jennifer_Morrison,"[subreddit]: Jennifer_Morrison
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+373,tvhead,"[subreddit]: tvhead
+[short_name]: For AI posts go to r/tvheadai
+[description]: ",['referral']
+374,EmergencyAlertSystem,"[subreddit]: EmergencyAlertSystem
+[short_name]: No AI generated content
+[description]: AI generated content is usually not very up to date, and is not realistic, since AI can give out misinformation, since it isn't perfect.","['reliability', 'education', 'not allowed']"
+375,Maude_Garrett,"[subreddit]: Maude_Garrett
+[short_name]: No AI art
+[description]: AI generated images and videos are not allowed",['not allowed']
+376,animecons,"[subreddit]: animecons
+[short_name]: No spam/low-effort posts
+[description]: Definitions:
+
+* Low-effort post: Answer can be Googled, or macro/meme.
+* Xposting for this subreddit has been disabled, so we'll know if this was done deliberately.
+* Submitting a ""what do you think about..."" topic without including your own thoughts
+* Obvious AI or bot submissions and posts
+* Non-con politics
+
+Doing the above repeatedly, or doing it without having a history of contributing to r/animecons, may result in a ban. Let's make this a place for meaningful and thoughtful discussion!","['effort/quality/spam', 'not allowed', 'ban']"
+377,JingLiu,"[subreddit]: JingLiu
+[short_name]: AI Generated Content
+[description]: AI content is allowed but needs to be properly flaired, and only 1 AI generated content (Art or Video) is allowed per 24 hours. Failure to uphold these rules would result in post removal as well getting a warning (Subsequent violation will lead to temporary ban).","['containment', 'disclosure', 'removal', 'warning', 'ban']"
+378,RnBCovers,"[subreddit]: RnBCovers
+[short_name]: No AI covers
+[description]: Try 👉 r/AICoverSongs instead","['referral', 'not allowed']"
+379,dbxv,"[subreddit]: dbxv
+[short_name]: Photo Mode 'Spam' and AI 'Art'
+[description]: Photo Posts are allowed but multiple posts within a short period of time (more than 1 every 3 days) from a single user or 'photo-dumps' with no theme/purpose will be removed.
+
+Posts using AI created 'Art' of characters is also not allowed","['not allowed', 'authenticity']"
+380,artstore,"[subreddit]: artstore
+[short_name]: No AI generated art
+[description]: AI is a tool like a microwave dinner is cooking.  Yes, food technically happened, but you're probably overstating your involvement in the process by claiming its ""your art""","['originality', 'not allowed']"
+381,Buddha,"[subreddit]: Buddha
+[short_name]: No AI
+[description]: No AI generated content.",['not allowed']
+382,SPACEKING,"[subreddit]: SPACEKING
+[short_name]: No AI generated content
+[description]: ",['not allowed']
+383,RedLetterMedia,"[subreddit]: RedLetterMedia
+[short_name]: No AI generated posts
+[description]: We don't allow AI generated or ""Copypasta"" style posts.","['not allowed', 'originality']"
+384,QualityYouTube,"[subreddit]: QualityYouTube
+[short_name]: No channels with AI.
+[description]: No channels that strongly use AI in most of their videos. For example voiceovers, script direction, music content. 
+
+You may use AI to help describe the channel you're featuring if you can't find the right words. 
+
+","['AI for support', 'some allowed']"
+385,Denise_Richards,"[subreddit]: Denise_Richards
+[short_name]: No fakes or overly shopped photos; images must be posted as published images. No memes.
+[description]: NO FAKES OR OVERLY SHOPPED PHOTOS - may result in a ban, serious offense. Images must be posted as published except for Quality AI-enhanced images. We ask that those titles include ""Enhanced."" Cartoonish/amateurish attempts will be removed solely at the mod's discretion. Don't complain. Do better. ! No X-rays or ""bubbling."" No watermarks. No emojis. No weird borders on the images (i.e., white or black bars). No text on images.","['removal', 'discretion', 'ban', 'disclosure', 'AI for support', 'authenticity', 'some allowed', 'effort/quality/spam']"
+386,JadeMains,"[subreddit]: JadeMains
+[short_name]: Non-OC art must be properly cred with the artist's permission. AI art is prohibited.
+[description]: When reposting art, always try your best to link back to the ORIGINAL source of artwork, music, and posts you come across. You can use sites such as SauceNAO to find the source of the artwork. OC art is exempt from this rule. Moderators will remove Non-OC art posts that do not have the original source included. The original artist must also give permission to repost their work. AI-generated artworks clearly derived from other artworks are prohibited.","['originality', 'not allowed']"
